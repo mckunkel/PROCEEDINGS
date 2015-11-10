@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: LMD_report.aux
+The style file: aipnum-cp.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: LMD.bib
+Warning--jnrlst (dependency: not reversed) set 1
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+merlin.mbs aipnum4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (8) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year  (1) truncated
+Control: production of eprint (0) enabled
+You've used 2 entries,
+            6023 wiz_defined-function locations,
+            1630 strings with 14846 characters,
+and the built_in function-call counts, 2490 in all, are:
+= -- 186
+> -- 53
+< -- 11
++ -- 17
+- -- 12
+* -- 335
+:= -- 260
+add.period$ -- 2
+call.type$ -- 2
+change.case$ -- 8
+chr.to.int$ -- 2
+cite$ -- 2
+duplicate$ -- 206
+empty$ -- 159
+format.name$ -- 26
+if$ -- 482
+int.to.chr$ -- 1
+int.to.str$ -- 11
+missing$ -- 22
+newline$ -- 58
+num.names$ -- 6
+pop$ -- 86
+preamble$ -- 1
+purify$ -- 10
+quote$ -- 0
+skip$ -- 107
+stack$ -- 0
+substring$ -- 98
+swap$ -- 202
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 8
+type$ -- 32
+warning$ -- 1
+while$ -- 10
+width$ -- 0
+write$ -- 70
+(There was 1 warning)

@@ -3,6 +3,7 @@
 \usepackage[numbers]{natbib}
 \usepackage{rotating}
 \usepackage{graphicx}
+\usepackage{caption}
 
 % Document starts
 \begin{document}
@@ -27,17 +28,66 @@ Photo-production experiments with the CEBAF Large Acceptance Spectrometer (\text
 Decays of light mesons provide insight into the structure of the meson. The Light Meson Decay (LMD) group, established at the Thomas Jefferson National Facility with worldwide collaboration, investigates physics pertaining to, but not limited to, transition form factors, anomalous decays and the search for CP violation through Dalitz plot analysis. The presentation given was an overview of the LMD program, recent updates on measurements and an outlook on measurements that can be taken with the CLAS12 detector. 
 
 \section{Light Meson Decay Program}
-The light meson group was established in 2013. The goal of the group is to investigate properties of light meson decays using data obtained from the CLAS detector.
+The light meson group was established in 2013. The goal of the group is to investigate properties of light meson decays using data obtained from the CLAS detector. Figure~\ref{fig:clas} shows the CLAS detector and its sub components.
 \begin{figure}[h]
-	\centerline{\includegraphics[width=150pt]{figures/clas_schematicIII.pdf}}
+	\centerline{\includegraphics[width=200pt]{figures/clas_schematicIII.pdf}}
 	\caption{The CEBAF Large Acceptance Spectrometer (CLAS) }
+	\label{fig:clas}
 \end{figure}
- Since decays of hadrons are independent of production, all CLAS data can be used, however there are two experiments that were chosen as flagships for the program, the g11 and g12 experiment. Both experiments are use photon beam incident on a liquid hydrogen target which create photo-induced reactions 
+ Since decays of hadrons are independent of production, all CLAS data can be used, however there are two experiments that were chosen as flagships for the program, the g11 and g12 experiment. Both experiments use a photon beam incident on a liquid hydrogen target which created photo-induced reactions, 800~MeV - 3.8~GeV for g11 and 1.1~GeV - 5.5~GeV for g12.  See Table~\ref{tab:lmd.channels} for a list of meson decays the LMD group plans to investigate.
 \input{tables/lmd_channels}
-\subsection{Update on the Radiative decay of the $\eta$ meson}
+\subsection{Update on the Radiative decay of the $\eta$ and $\eta^\prime$  meson}
+The 2 photon decay of pseudoscalar mesons $\pi^0, \eta , \eta^{\prime} \to \gamma \gamma $ proceed from the understood triangle or axial anomaly. While radiative decays of  $\eta , \eta^{\prime} \to \pi^+ \pi^- \gamma $ are related to a less understood box anomaly. Figure~\ref{fig:decays} shows the Feynmann diagrams for the two processes previously described. 
+\begin{figure}[h]
+	\begin{minipage}{.5\textwidth}
+		\centering
+		\centerline{\includegraphics[width=150pt]{figures/triangleIII.pdf}}
+		\caption{}{A. Triangle diagram}
+		\label{fig:test1}
+	\end{minipage}%
+	\begin{minipage}{.5\textwidth}
+		\centering
+		\centerline{\includegraphics[width=150pt, height=105pt]{figures/boxIII.pdf}}
+		%\caption{figure in here}{box diagram}
+		\caption{Feynmann diagram of the two photon decay (A). Feynmann diagram of the axial anomoly, box diamgram (B)}{B. Box diagram}
+		\label{fig:decays}
+	\end{minipage}
+\end{figure}
+The  radiative decay widths of $ \eta^{\prime}$ and $\eta^{\prime}$ are determined by the box anomaly in the chiral limit by use of equation~\ref{eq:decaywidth}.
+ %An analysis of the photon energy distribution of the radiative decays of $ \eta^{\prime}$ and $\eta^{\prime}$, the decay widths are determined by the box anomaly in the chiral limit.
+ \begin{equation}
+ \frac{d\Gamma (\eta^{(\prime)} \to \pi^+ \pi^- \gamma)}{ds_{\pi\pi}} = A\vert P(s_{\pi\pi}) F_V(s_{\pi\pi}) \Gamma_0(s_{\pi\pi})\vert  \label{eq:decaywidth} \\
+ \end{equation}
+ Where $\Gamma_0(s_{\pi\pi})$ is the P-wave phase-space constant, denoted in equation~\ref{eq:decayconstant}. $F_V(s_{\pi\pi})$ is the pion form factor that can be approximated by the equation~\ref{eq:decayformfactor} and  $P(s_{\pi\pi})$ is expanded in the chiral limit, $s_{\pi\pi} = 0$, and is written in equation~\ref{eq:decaychiral}.
+\begin{eqnarray}
+\Gamma_0(s_{\pi\pi}) = \frac{\kappa \left(M^2_{\eta^{(\prime)}} - s_{\pi\pi} \right)^3  s_{\pi\pi} \left(1- \frac{ 4M^2_{\pi }}{    s_{\pi\pi}  }\right)^{\frac{3}{2}}   }{M^3_{\eta^{(\prime)} }}  \label{eq:decayconstant}  \\
+\vert F_V(s_{\pi\pi}) \vert \approx 1+(2.12\pm0.01)s_{\pi\pi} + (2.13\pm0.01)s_{\pi\pi}^2+(13.89\pm0.14)s_{\pi\pi}^3 \label{eq:decayformfactor} \\
+P(s_{\pi\pi}) = 1 + \alpha s_{\pi\pi} + \mathcal{O}(s_{\pi\pi}^2) \label{eq:decaychiral}
+\end{eqnarray}
 
-\subsection{Update on the Dalitz Plot anlaysis of the $\eta^\prime$ meson}
+\begin{figure}[h]
+	\centerline{\includegraphics[width=250pt]{figures/Box_wasa_kloe.pdf}}
+	\caption{Current }
+	\label{fig:boswasakloe}
+\end{figure}
 
+\begin{figure}[h]
+	\centerline{\includegraphics[width=150pt]{figures/Box_Crystal.pdf}}
+	\caption{Current }
+	\label{fig:boxcrystal}
+\end{figure}
+\begin{figure}[h]
+	\centerline{\includegraphics[width=250pt]{figures/clas_g11data.pdf}}
+	\caption{CLAS data yield for $\gamma p \to p \eta^{(\prime)} \to \pi^+ \pi^- \gamma $ from g11 data set }
+	\label{fig:boxCLASdata}
+\end{figure}
+\begin{figure}[h]
+	\centerline{\includegraphics[width=250pt]{figures/Box_CLAS.pdf}}
+	\caption{The CEBAF Large Acceptance Spectrometer (CLAS) }
+	\label{fig:boxCLAS}
+\end{figure}
+%[1]F.Stollenwerk et al., Phys. Lett. B707:184-190, 2012 
+%[2]Phys.Lett. B718 (2013) 910-914 
 \subsection{Update on the transistion form factor measurement  of the $\omega$ meson}
 
 \subsection{Update on the branching ratio measurement  of the $\eta^\prime$ meson $\rightarrow e^+e^-\gamma$}
@@ -51,7 +101,7 @@ The reference section will follow the ``Acknowledgment'' section.  References sh
 
 \nocite{*}
 \bibliographystyle{aipnum-cp}%
-\bibliography{sample}%
+\bibliography{LMD}%
 
 
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2015.3.18)  6 NOV 2015 16:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2015.3.18)  10 NOV 2015 14:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -213,7 +213,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ))
-No file Jaxo_tmp.aux.
+(./Jaxo_tmp.aux)
 \openout1 = `Jaxo_tmp.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -229,19 +229,19 @@ LaTeX Font Info:    ... okay on input line 29.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 48.
+(Font)              <14.4> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
-[1
+(Font)              <7> on input line 52.
+ [1
 
 ] (./Jaxo_tmp.aux) ) 
 Here is how much of TeX's memory you used:
- 7597 strings out of 493118
- 136370 string characters out of 6135459
+ 7599 strings out of 493118
+ 136396 string characters out of 6135459
  212081 words of memory out of 5000000
  11028 multiletter control sequences out of 15000+600000
  4553 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,7n,40p,464b,301s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,8n,40p,464b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Jaxo_tmp.dvi (1 page, 18672 bytes).
+Output written on Jaxo_tmp.dvi (1 page, 19240 bytes).

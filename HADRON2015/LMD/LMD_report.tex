@@ -37,7 +37,7 @@ The light meson group was established in 2013. The goal of the group is to inves
  Since decays of hadrons are independent of production, all CLAS data can be used, however there are two experiments that were chosen as flagships for the program, the g11 and g12 experiment. Both experiments use a photon beam incident on a liquid hydrogen target which created photo-induced reactions, 800~MeV - 3.8~GeV for g11 and 1.1~GeV - 5.5~GeV for g12.  See Table~\ref{tab:lmd.channels} for a list of meson decays the LMD group plans to investigate.
 \input{tables/lmd_channels}
 \subsection{Update on the Radiative decay of the $\eta$ and $\eta^\prime$  meson}
-The 2 photon decay of pseudoscalar mesons $\pi^0, \eta , \eta^{\prime} \to \gamma \gamma $ proceed from the understood triangle or axial anomaly. While radiative decays of  $\eta , \eta^{\prime} \to \pi^+ \pi^- \gamma $ are related to a less understood box anomaly. Figure~\ref{fig:decays} shows the Feynmann diagrams for the two processes previously described. 
+The 2 photon decay of pseudoscalar mesons $\pi^0, \eta , \eta^{\prime} \to \gamma \gamma $ proceed from the understood triangle or axial anomaly. While radiative decays of  $\eta , \eta^{\prime} \to \pi^+ \pi^- \gamma $ are related to a less understood box anomaly. Figure~\ref{fig:decays} shows the Feynman diagrams for the two processes previously described. 
 \begin{figure}[h]
 	\begin{minipage}{.5\textwidth}
 		\centering
@@ -58,38 +58,58 @@ The  radiative decay widths of $ \eta^{\prime}$ and $\eta^{\prime}$ are determin
  \begin{equation}
  \frac{d\Gamma (\eta^{(\prime)} \to \pi^+ \pi^- \gamma)}{ds_{\pi\pi}} = A\vert P(s_{\pi\pi}) F_V(s_{\pi\pi}) \Gamma_0(s_{\pi\pi})\vert  \label{eq:decaywidth} \\
  \end{equation}
- Where $\Gamma_0(s_{\pi\pi})$ is the P-wave phase-space constant, denoted in equation~\ref{eq:decayconstant}. $F_V(s_{\pi\pi})$ is the pion form factor that can be approximated by the equation~\ref{eq:decayformfactor} and  $P(s_{\pi\pi})$ is expanded in the chiral limit, $s_{\pi\pi} = 0$, and is written in equation~\ref{eq:decaychiral}.
+ Where $\Gamma_0(s_{\pi\pi})$ is the P-wave phase-space constant, denoted in equation~\ref{eq:decayconstant} with $\kappa$ being a numerical constant. $F_V(s_{\pi\pi})$ is the pion form factor that can be approximated by the equation~\ref{eq:decayformfactor} and  $P(s_{\pi\pi})$ is expanded in the chiral limit, $s_{\pi\pi} = 0$, and is written in equation~\ref{eq:decaychiral}, where $\alpha$ is the variable of measurement.
 \begin{eqnarray}
 \Gamma_0(s_{\pi\pi}) = \frac{\kappa \left(M^2_{\eta^{(\prime)}} - s_{\pi\pi} \right)^3  s_{\pi\pi} \left(1- \frac{ 4M^2_{\pi }}{    s_{\pi\pi}  }\right)^{\frac{3}{2}}   }{M^3_{\eta^{(\prime)} }}  \label{eq:decayconstant}  \\
 \vert F_V(s_{\pi\pi}) \vert \approx 1+(2.12\pm0.01)s_{\pi\pi} + (2.13\pm0.01)s_{\pi\pi}^2+(13.89\pm0.14)s_{\pi\pi}^3 \label{eq:decayformfactor} \\
 P(s_{\pi\pi}) = 1 + \alpha s_{\pi\pi} + \mathcal{O}(s_{\pi\pi}^2) \label{eq:decaychiral}
 \end{eqnarray}
-
-\begin{figure}[h]
-	\centerline{\includegraphics[width=250pt]{figures/Box_wasa_kloe.pdf}}
-	\caption{Current }
-	\label{fig:boswasakloe}
-\end{figure}
-
-\begin{figure}[h]
-	\centerline{\includegraphics[width=150pt]{figures/Box_Crystal.pdf}}
-	\caption{Current }
-	\label{fig:boxcrystal}
-\end{figure}
+Previous measurements of the radiative decay for the $\eta$ meson from WASA-at-COSY~\cite{bib0} and KLOE~\cite{bib3} differ in such a manner that a third measurement is needed, furthermore there exists only one measurement, performed  of the $\eta^{\prime}$ radiative decay~\cite{bib2}. With the CLAS g11 experiment, both the $\eta$ and  $\eta^{\prime}$ radiative decay width will be measured. In figure~\ref{fig:boxCLASdata} the CLAS g11 data is shown for the particle selection of exclusive $\gamma p \to p  \pi^+ \pi^- \gamma $. Selecting events withing a $2.5 \sigma$ range of $\eta^{(\prime)}$ the photon energy distribution is shown in figure~\ref{fig:boxCLAS}. 
 \begin{figure}[h]
 	\centerline{\includegraphics[width=250pt]{figures/clas_g11data.pdf}}
 	\caption{CLAS data yield for $\gamma p \to p \eta^{(\prime)} \to \pi^+ \pi^- \gamma $ from g11 data set }
 	\label{fig:boxCLASdata}
 \end{figure}
 \begin{figure}[h]
-	\centerline{\includegraphics[width=250pt]{figures/Box_CLAS.pdf}}
-	\caption{The CEBAF Large Acceptance Spectrometer (CLAS) }
+	\centerline{\includegraphics[width=350pt]{figures/Box_CLAS.pdf}}
+	\caption{CLAS data photon energy distribution for $\eta$ (left) and $\eta^{\prime}$ (right)}
 	\label{fig:boxCLAS}
 \end{figure}
-%[1]F.Stollenwerk et al., Phys. Lett. B707:184-190, 2012 
-%[2]Phys.Lett. B718 (2013) 910-914 
+Visually comparing the shape of the left figure~\ref{fig:boxCLAS} to those of figure~\ref{fig:kloe_eta}, for the  $\eta$ meson, and also the right figure~\ref{fig:boxCLAS} to that of figure~\ref{fig:crystal_etaP}, for the $\eta^{\prime}$ meson, it can be seen that the CLAS data is suitable for comparison with previous measurements.
+\begin{figure}[h!]
+	\begin{minipage}{.5\textwidth}
+		\centering
+		\centerline{\includegraphics[width=175 pt]{figures/WASA_eta.pdf}}
+		\caption{}{}
+		\label{fig:wasa_eta}
+	\end{minipage}%
+	\begin{minipage}{.5\textwidth}
+		\centering
+		\centerline{\includegraphics[width=200 pt, height = 150 pt]{figures/KLOE_eta.pdf}}
+		%\caption{figure in here}{box diagram}
+		\caption{WASA-at-COSY data photon energy distribution for $\eta$ (left)~\cite{bib3} and KLOE data photon energy distribution for $\eta$ (right)\cite{bib2}.}{}
+		\label{fig:kloe_eta}
+	\end{minipage}
+\end{figure}
+\begin{figure}[h!]
+	\centerline{\includegraphics[width=200pt]{figures/CRYSTAL_etaP.pdf}}
+	\caption{CRYSTAL BARREL photon energy distribution for  $\eta^{\prime}$~\cite{bib3}}
+	\label{fig:crystal_etaP}
+\end{figure}
+\subsection{Update on the Dalitz plot analysis of $\eta^{\prime} \to \pi^+ \pi^- eta$}
+The Dalitz plot of $\eta^{\prime} \to \pi^+ \pi^- eta$ provides kinematic information of the decay, enabling the study of low energy dynamics of QCD and heavier mass pseudoscalar mesons. The  $\eta^{\prime} \to \pi^+ \pi^- eta$ decay has a low Q-value due to the decay products being relatively heavy, this helps test and limit the effective chiral Lagrangian theory. The measurable of the Dalitz plot $X$ and $Y$ are projected and fitted to the equation~\ref{eq:dalitzpro} to extract the parameters $a$, $b$, $c$, $d$. Table~\ref{tab:dal.parms} shows the previous measurements of equation~\ref{eq:dalitzpro} along with the projected statistical error a measurement from the CLAS g11 data.
+ \begin{equation}
+ f(X,Y) = A(1+a(Y) + b (Y^2) + c(X) + d(X^2)  \label{eq:dalitzpro} \\
+ \end{equation}
+ \input{tables/dalitzplotparm}
+This topic was briefly discussed, as a full update was given by later in the session.
 \subsection{Update on the transistion form factor measurement  of the $\omega$ meson}
-
+Transition form factors (TFF's) characterize modifications of the point-like photon-meson vertex due to the structure of the meson. Since the virtual photon can interact with quarks, it can be used as a probe for the internal structure of mesons and its electromagnetic interaction is calculable with the Kroll-Wada formula~\cite{bib4} as seen in equation~\ref{eq:kroll};
+\begin{equation}
+\frac{d\Gamma_{M{\rightarrow l^{+}l^{-}X}}}{dq^{2} d\Gamma_{M{\rightarrow X\gamma}}} = \frac{\alpha}{3\pi q^{2}}\left(\left(1+\frac{q^{2}}{m^{2}_{M}-m^{2}_{X}}\right)^2 - \frac{4m^{2}_{M}q^2}{(m^{2}_{M}-m^{2}_{X})^2}\right)^\frac{3}{2}\left(1-\frac{4m_{l}^{2}}{q^{2}}\right)^{1/2}\left(1+\frac{2m_{l}^{2}}{q^{2}}\right) \vert_{\mathrm{Q.E.D}}  \label{eq:kroll} \\
+\end{equation}
+ Where $M$ is the species of meson i.e. $\pi^0$, $\eta$, $\omega$, $\eta^{\prime}$, etc, $X$ is the daughter particle in the decay, $m_M$ the mass of the meson, $m_X$ the mass of the daughter particle, $m_l$ the mass of the lepton species in the decay, i.e. $e^{\pm}$ or $\mu^{\pm}$ and $q$ being the $e^{+}e^{-}$ or $\mu^{+}\mu^{-}$ invariant mass which is equivalent to the mass of the virtual photon.
+Measurement of the transition form factor for pseudoscalar and vector mesons in the space-like region has been difficult due to lack of statistics. With the CLAS g12 experiment, lepton ($e^{\pm}$) identification is done using Cherenkov detectors and electromagnetic calorimetry, providing a $e^{+}e^{-}/\pi^{+}\pi^{-}$ rejection of $10^6$.
 \subsection{Update on the branching ratio measurement  of the $\eta^\prime$ meson $\rightarrow e^+e^-\gamma$}
 \subsection{Future measurement of the $\eta^\prime$ meson transsition form factor with CLAS12}
 

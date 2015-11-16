@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: LMD_report.aux
+The top-level auxiliary file: sample.aux
 The style file: aipnum-cp.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -9,7 +9,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Database file #1: LMD.bib
+Database file #1: sample.bib
 Warning--jnrlst (dependency: not reversed) set 1
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
@@ -21,45 +21,46 @@ Control: production of article title (-1) disabled
 Control: page (0) single
 Control: year  (1) truncated
 Control: production of eprint (0) enabled
-You've used 5 entries,
+Warning--empty year in bib7
+You've used 7 entries,
             6023 wiz_defined-function locations,
-            1643 strings with 15017 characters,
-and the built_in function-call counts, 5764 in all, are:
-= -- 468
-> -- 128
-< -- 21
-+ -- 41
-- -- 30
-* -- 738
-:= -- 606
-add.period$ -- 5
-call.type$ -- 5
-change.case$ -- 20
-chr.to.int$ -- 5
-cite$ -- 5
-duplicate$ -- 487
-empty$ -- 397
-format.name$ -- 65
-if$ -- 1168
+            1660 strings with 15284 characters,
+and the built_in function-call counts, 6883 in all, are:
+= -- 516
+> -- 143
+< -- 30
++ -- 52
+- -- 35
+* -- 972
+:= -- 742
+add.period$ -- 10
+call.type$ -- 7
+change.case$ -- 35
+chr.to.int$ -- 7
+cite$ -- 8
+duplicate$ -- 626
+empty$ -- 498
+format.name$ -- 73
+if$ -- 1330
 int.to.chr$ -- 1
-int.to.str$ -- 14
-missing$ -- 55
-newline$ -- 67
-num.names$ -- 15
-pop$ -- 209
+int.to.str$ -- 16
+missing$ -- 70
+newline$ -- 73
+num.names$ -- 23
+pop$ -- 247
 preamble$ -- 1
-purify$ -- 25
+purify$ -- 34
 quote$ -- 0
-skip$ -- 253
+skip$ -- 256
 stack$ -- 0
-substring$ -- 249
-swap$ -- 463
-text.length$ -- 11
+substring$ -- 225
+swap$ -- 577
+text.length$ -- 18
 text.prefix$ -- 0
 top$ -- 8
-type$ -- 80
-warning$ -- 1
-while$ -- 26
+type$ -- 101
+warning$ -- 2
+while$ -- 35
 width$ -- 0
-write$ -- 97
-(There was 1 warning)
+write$ -- 112
+(There were 2 warnings)

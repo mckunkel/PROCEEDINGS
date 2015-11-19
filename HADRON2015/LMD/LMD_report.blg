@@ -21,45 +21,46 @@ Control: production of article title (-1) disabled
 Control: page (0) single
 Control: year  (1) truncated
 Control: production of eprint (0) enabled
-You've used 9 entries,
+Warning--empty year in lmdCAA
+You've used 14 entries,
             6023 wiz_defined-function locations,
-            1667 strings with 16189 characters,
-and the built_in function-call counts, 14597 in all, are:
-= -- 872
-> -- 558
-< -- 83
-+ -- 168
-- -- 149
-* -- 2315
-:= -- 1338
-add.period$ -- 9
-call.type$ -- 9
-change.case$ -- 36
-chr.to.int$ -- 9
-cite$ -- 9
-duplicate$ -- 1251
-empty$ -- 986
-format.name$ -- 306
-if$ -- 3001
+            1701 strings with 16192 characters,
+and the built_in function-call counts, 14991 in all, are:
+= -- 1231
+> -- 330
+< -- 49
++ -- 113
+- -- 84
+* -- 1915
+:= -- 1613
+add.period$ -- 14
+call.type$ -- 14
+change.case$ -- 56
+chr.to.int$ -- 14
+cite$ -- 15
+duplicate$ -- 1339
+empty$ -- 1088
+format.name$ -- 182
+if$ -- 3080
 int.to.chr$ -- 1
-int.to.str$ -- 18
-missing$ -- 146
-newline$ -- 79
-num.names$ -- 27
-pop$ -- 454
+int.to.str$ -- 23
+missing$ -- 150
+newline$ -- 95
+num.names$ -- 42
+pop$ -- 515
 preamble$ -- 1
-purify$ -- 45
+purify$ -- 69
 quote$ -- 0
-skip$ -- 544
+skip$ -- 661
 stack$ -- 0
-substring$ -- 397
-swap$ -- 1342
-text.length$ -- 69
+substring$ -- 573
+swap$ -- 1222
+text.length$ -- 30
 text.prefix$ -- 0
 top$ -- 8
-type$ -- 189
-warning$ -- 1
-while$ -- 44
+type$ -- 218
+warning$ -- 2
+while$ -- 67
 width$ -- 0
-write$ -- 133
-(There was 1 warning)
+write$ -- 177
+(There were 2 warnings)

@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year  (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{9}%
+\begin{thebibliography}{14}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -50,28 +50,42 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
-\bibitem [{\citenamefont {Adlarson}\ and\ \citenamefont {et~al.}(2012)}]{bib0}%
+\bibitem [{\citenamefont {Amaryan}\ \emph {et~al.}()\citenamefont {Amaryan}
+  \emph {et~al.}}]{lmdCAA}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Amaryan}} \emph {et~al.},\ }\href@noop {} {\emph {\bibinfo {title}
+  {Photoproduction and \uppercase{D}ecay of \uppercase{L}ight
+  \uppercase{M}esons in \uppercase{CLAS}}}}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Adlarson}\ \emph {et~al.}(2012)\citenamefont
+  {Adlarson} \emph {et~al.}}]{bib0}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
-  {Adlarson}}\ and\ \bibinfo {author} {\bibnamefont {et~al.}},\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Physics Letters B}\ }\textbf
-  {\bibinfo {volume} {707}},\ \unskip\ \bibinfo {pages} {243 -- 249} (\bibinfo
-  {year} {2012})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Stollenwerk}\ and\ \citenamefont
-  {et~al.}(2012)}]{bib3}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
-  {Stollenwerk}}\ and\ \bibinfo {author} {\bibnamefont {et~al.}},\ }\href@noop
-  {} {\bibfield  {journal} {\bibinfo  {journal} {Physics Letters B}\ }\textbf
-  {\bibinfo {volume} {707}},\ \unskip\ \bibinfo {pages} {184 -- 190} (\bibinfo
-  {year} {2012})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Babusci}\ and\ \citenamefont {et~al.}(2013)}]{bib2}%
+  {Adlarson}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume} {707}},\ \unskip\
+  \bibinfo {pages} {243 -- 249} (\bibinfo {year} {2012})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Babusci}\ \emph {et~al.}(2013)\citenamefont {Babusci}
+  \emph {et~al.}}]{bib1}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
-  {Babusci}}\ and\ \bibinfo {author} {\bibnamefont {et~al.}},\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Physics Letters B}\ }\textbf
-  {\bibinfo {volume} {718}},\ \unskip\ \bibinfo {pages} {910 -- 914} (\bibinfo
-  {year} {2013})}\BibitemShut {NoStop}%
+  {Babusci}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume} {718}},\ \unskip\
+  \bibinfo {pages} {910 -- 914} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Abele}\ \emph {et~al.}(1997)\citenamefont {Abele}
+  \emph {et~al.}}]{bib2}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Abele}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume} {402}},\ \unskip\
+  \bibinfo {pages} {195 -- 206} (\bibinfo {year} {1997})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Stollenwerk}\ \emph {et~al.}(2012)\citenamefont
+  {Stollenwerk} \emph {et~al.}}]{bib3}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {Stollenwerk}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume}
+  {707}},\ \unskip\ \bibinfo {pages} {184 -- 190} (\bibinfo {year}
+  {2012})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Kroll}\ and\ \citenamefont {Wada}(1955)}]{bib4}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {N.~M.}\ \bibnamefont
@@ -79,74 +93,13 @@
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev.}\
   }\textbf {\bibinfo {volume} {98}},\ \unskip\ \bibinfo {pages} {1355--1359}
   (\bibinfo {year} {1955})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Arnaldi}\ \emph {et~al.}(2009)\citenamefont
-  {Arnaldi}, \citenamefont {Banicz}, \citenamefont {Castor}, \citenamefont
-  {Chaurand}, \citenamefont {Cicalò}, \citenamefont {Colla}, \citenamefont
-  {Cortese}, \citenamefont {Damjanovic}, \citenamefont {David}, \citenamefont
-  {de~Falco}, \citenamefont {Devaux}, \citenamefont {Ducroux}, \citenamefont
-  {En'yo}, \citenamefont {Fargeix}, \citenamefont {Ferretti}, \citenamefont
-  {Floris}, \citenamefont {Förster}, \citenamefont {Force}, \citenamefont
-  {Guettet}, \citenamefont {Guichard}, \citenamefont {Gulkanian}, \citenamefont
-  {Heuser}, \citenamefont {Keil}, \citenamefont {Lourenco}, \citenamefont
-  {Lozano}, \citenamefont {Manso}, \citenamefont {Martins}, \citenamefont
-  {Masoni}, \citenamefont {Neves}, \citenamefont {Ohnishi}, \citenamefont
-  {Oppedisano}, \citenamefont {Parracho}, \citenamefont {Pillot}, \citenamefont
-  {Poghosyan}, \citenamefont {Puddu}, \citenamefont {Radermacher},
-  \citenamefont {Ramalhete}, \citenamefont {Rosinsky}, \citenamefont
-  {Scomparin}, \citenamefont {Seixas}, \citenamefont {Serci}, \citenamefont
-  {Shahoyan}, \citenamefont {Sonderegger}, \citenamefont {Specht},
-  \citenamefont {Tieulent}, \citenamefont {Usai}, \citenamefont {Veenhof},\
-  and\ \citenamefont {Wöhri}}]{bib5}%
+\bibitem [{\citenamefont {Arnaldi}\ \emph {et~al.}(2009)\citenamefont {Arnaldi}
+  \emph {et~al.}}]{bib5}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
-  {Arnaldi}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Banicz}},
-  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Castor}}, \bibinfo
-  {author} {\bibfnamefont {B.}~\bibnamefont {Chaurand}}, \bibinfo {author}
-  {\bibfnamefont {C.}~\bibnamefont {Cicalò}}, \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {Colla}}, \bibinfo {author} {\bibfnamefont
-  {P.}~\bibnamefont {Cortese}}, \bibinfo {author} {\bibfnamefont
-  {S.}~\bibnamefont {Damjanovic}}, \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {David}}, \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {de~Falco}}, \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {Devaux}}, \bibinfo {author} {\bibfnamefont
-  {L.}~\bibnamefont {Ducroux}}, \bibinfo {author} {\bibfnamefont
-  {H.}~\bibnamefont {En'yo}}, \bibinfo {author} {\bibfnamefont
-  {J.}~\bibnamefont {Fargeix}}, \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {Ferretti}}, \bibinfo {author} {\bibfnamefont
-  {M.}~\bibnamefont {Floris}}, \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {Förster}}, \bibinfo {author} {\bibfnamefont
-  {P.}~\bibnamefont {Force}}, \bibinfo {author} {\bibfnamefont
-  {N.}~\bibnamefont {Guettet}}, \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {Guichard}}, \bibinfo {author} {\bibfnamefont
-  {H.}~\bibnamefont {Gulkanian}}, \bibinfo {author} {\bibfnamefont
-  {J.}~\bibnamefont {Heuser}}, \bibinfo {author} {\bibfnamefont
-  {M.}~\bibnamefont {Keil}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
-  {Lourenco}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Lozano}},
-  \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Manso}}, \bibinfo
-  {author} {\bibfnamefont {P.}~\bibnamefont {Martins}}, \bibinfo {author}
-  {\bibfnamefont {A.}~\bibnamefont {Masoni}}, \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {Neves}}, \bibinfo {author} {\bibfnamefont
-  {H.}~\bibnamefont {Ohnishi}}, \bibinfo {author} {\bibfnamefont
-  {C.}~\bibnamefont {Oppedisano}}, \bibinfo {author} {\bibfnamefont
-  {P.}~\bibnamefont {Parracho}}, \bibinfo {author} {\bibfnamefont
-  {P.}~\bibnamefont {Pillot}}, \bibinfo {author} {\bibfnamefont
-  {T.}~\bibnamefont {Poghosyan}}, \bibinfo {author} {\bibfnamefont
-  {G.}~\bibnamefont {Puddu}}, \bibinfo {author} {\bibfnamefont
-  {E.}~\bibnamefont {Radermacher}}, \bibinfo {author} {\bibfnamefont
-  {P.}~\bibnamefont {Ramalhete}}, \bibinfo {author} {\bibfnamefont
-  {P.}~\bibnamefont {Rosinsky}}, \bibinfo {author} {\bibfnamefont
-  {E.}~\bibnamefont {Scomparin}}, \bibinfo {author} {\bibfnamefont
-  {J.}~\bibnamefont {Seixas}}, \bibinfo {author} {\bibfnamefont
-  {S.}~\bibnamefont {Serci}}, \bibinfo {author} {\bibfnamefont
-  {R.}~\bibnamefont {Shahoyan}}, \bibinfo {author} {\bibfnamefont
-  {P.}~\bibnamefont {Sonderegger}}, \bibinfo {author} {\bibfnamefont
-  {H.}~\bibnamefont {Specht}}, \bibinfo {author} {\bibfnamefont
-  {R.}~\bibnamefont {Tieulent}}, \bibinfo {author} {\bibfnamefont
-  {G.}~\bibnamefont {Usai}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
-  {Veenhof}}, \ and\ \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
-  {Wöhri}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Physics Letters B}\ }\textbf {\bibinfo {volume} {677}},\ \unskip\ \bibinfo
-  {pages} {260 -- 266} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+  {Arnaldi}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume} {677}},\ \unskip\
+  \bibinfo {pages} {260 -- 266} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Terschlüsen}\ and\ \citenamefont
   {Leupold}(2010)}]{bib6}%
   \BibitemOpen
@@ -163,20 +116,42 @@
   {} {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev.}\ }\textbf
   {\bibinfo {volume} {D92}},\ p.\ \bibinfo {pages} {012001} (\bibinfo {year}
   {2015})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Williams}, \citenamefont {Bellis},\ and\
-  \citenamefont {Meyer}(2009)}]{bib8}%
+\bibitem [{\citenamefont {Williams}\ \emph {et~al.}(2009)\citenamefont
+  {Williams} \emph {et~al.}}]{bib8}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Williams}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Bellis}}, \
-  and\ \bibinfo {author} {\bibfnamefont {C.~A.}\ \bibnamefont {Meyer}},\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {JINST}\ }\textbf
-  {\bibinfo {volume} {4}},\ p.\ \bibinfo {pages} {P10003} (\bibinfo {year}
-  {2009})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Abele}\ and\ \citenamefont {et~al.}(1997)}]{bib1}%
+  {Williams}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {JINST}\ }\textbf {\bibinfo {volume} {4}},\ p.\ \bibinfo {pages}
+  {P10003} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Bramon}\ and\ \citenamefont {Massó}(1981)}]{bib10}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
-  {Abele}}\ and\ \bibinfo {author} {\bibnamefont {et~al.}},\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Physics Letters B}\ }\textbf
-  {\bibinfo {volume} {402}},\ \unskip\ \bibinfo {pages} {195 -- 206} (\bibinfo
-  {year} {1997})}\BibitemShut {NoStop}%
+  {Bramon}}\ and\ \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Massó}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Physics Letters B}\ }\textbf {\bibinfo {volume} {104}},\ \unskip\ \bibinfo
+  {pages} {311 -- 314} (\bibinfo {year} {1981})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ametller}\ \emph {et~al.}(1992)\citenamefont
+  {Ametller} \emph {et~al.}}]{bib11}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Ametller}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Phys. Rev. D}\ }\textbf {\bibinfo {volume} {45}},\ \unskip\
+  \bibinfo {pages} {986--989} (\bibinfo {year} {1992})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hanhart}\ \emph {et~al.}(2013)\citenamefont {Hanhart}
+  \emph {et~al.}}]{bib12}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Hanhart}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Eur. Phys. J.}\ }\textbf {\bibinfo {volume} {C73}},\ p.\ \bibinfo
+  {pages} {2668} (\bibinfo {year} {2013})},\ \Eprint
+  {http://arxiv.org/abs/1307.5654} {arXiv:1307.5654 [hep-ph]} \BibitemShut
+  {NoStop}%
+%%CITATION = ARXIV:1307.5654;%%
+\bibitem [{\citenamefont {Dzhelyadin}\ \emph {et~al.}(1979)\citenamefont
+  {Dzhelyadin} \emph {et~al.}}]{bib9}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Dzhelyadin}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+   {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume} {88}},\ \unskip\
+  \bibinfo {pages} {379 -- 380} (\bibinfo {year} {1979})}\BibitemShut {NoStop}%
 \end{thebibliography}%

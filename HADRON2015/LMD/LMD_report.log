@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  17 NOV 2015 17:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  18 NOV 2015 16:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -318,33 +318,15 @@ File: figures/clas_schematicIII.pdf Graphic file (type pdf)
 
 <use figures/clas_schematicIII.pdf>
 Package pdftex.def Info: figures/clas_schematicIII.pdf used on input line 32.
-(pdftex.def)             Requested size: 200.0pt x 141.32445pt.
- (./tables/lmd_channels.tex
-Overfull \hbox (2.5pt too wide) in paragraph at lines 23--23
- []$[]$ 
- []
-
-) [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./f
-igures/clas_schematicIII.pdf>]
-<figures/triangleIII.pdf, id=37, 352.31625pt x 228.855pt>
-File: figures/triangleIII.pdf Graphic file (type pdf)
-
-<use figures/triangleIII.pdf>
-Package pdftex.def Info: figures/triangleIII.pdf used on input line 43.
-(pdftex.def)             Requested size: 150.0pt x 97.43494pt.
-
-<figures/boxIII.pdf, id=38, 426.59375pt x 213.79875pt>
-File: figures/boxIII.pdf Graphic file (type pdf)
-
-<use figures/boxIII.pdf>
-Package pdftex.def Info: figures/boxIII.pdf used on input line 49.
-(pdftex.def)             Requested size: 150.00003pt x 105.00044pt.
+(pdftex.def)             Requested size: 175.0pt x 123.66345pt.
 Missing character: There is no â in font txr!
 Missing character: There is no € in font txr!
 Missing character: There is no ¨ in font txr!
 Missing character: There is no â in font txr!
 Missing character: There is no € in font txr!
 Missing character: There is no ¨ in font txr!
+ [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./fi
+gures/clas_schematicIII.pdf>]
 Missing character: There is no â in font txr!
 Missing character: There is no € in font txr!
 Missing character: There is no ¨ in font txr!
@@ -355,110 +337,117 @@ Missing character: There is no â in font txr!
 Missing character: There is no € in font txr!
 Missing character: There is no ¨ in font txr!
 
-<figures/clas_g11data.pdf, id=39, 801.99625pt x 488.82625pt>
+<figures/clas_g11data.pdf, id=37, 801.99625pt x 488.82625pt>
 File: figures/clas_g11data.pdf Graphic file (type pdf)
 
 <use figures/clas_g11data.pdf>
-Package pdftex.def Info: figures/clas_g11data.pdf used on input line 68.
-(pdftex.def)             Requested size: 250.0pt x 152.37741pt.
+Package pdftex.def Info: figures/clas_g11data.pdf used on input line 69.
+(pdftex.def)             Requested size: 175.0pt x 106.66196pt.
 
-<figures/Box_CLAS.pdf, id=40, 843.15pt x 346.29375pt>
+<figures/Box_CLAS.pdf, id=38, 843.15pt x 346.29375pt>
 File: figures/Box_CLAS.pdf Graphic file (type pdf)
 
 <use figures/Box_CLAS.pdf>
-Package pdftex.def Info: figures/Box_CLAS.pdf used on input line 73.
-(pdftex.def)             Requested size: 350.0pt x 143.7515pt.
- <figures/WASA_eta.pdf, id=41, 766.865pt x 554.07pt>
+Package pdftex.def Info: figures/Box_CLAS.pdf used on input line 74.
+(pdftex.def)             Requested size: 275.0pt x 112.94571pt.
+ <figures/WASA_eta.pdf, id=39, 766.865pt x 554.07pt>
 File: figures/WASA_eta.pdf Graphic file (type pdf)
 
 <use figures/WASA_eta.pdf>
-Package pdftex.def Info: figures/WASA_eta.pdf used on input line 81.
-(pdftex.def)             Requested size: 175.0pt x 126.43579pt.
+Package pdftex.def Info: figures/WASA_eta.pdf used on input line 83.
+(pdftex.def)             Requested size: 125.0pt x 90.31007pt.
 
-<figures/KLOE_eta.pdf, id=42, 845.1575pt x 597.23125pt>
+<figures/KLOE_eta.pdf, id=40, 845.1575pt x 597.23125pt>
 File: figures/KLOE_eta.pdf Graphic file (type pdf)
 
 <use figures/KLOE_eta.pdf>
-Package pdftex.def Info: figures/KLOE_eta.pdf used on input line 87.
-(pdftex.def)             Requested size: 199.99191pt x 150.00003pt.
+Package pdftex.def Info: figures/KLOE_eta.pdf used on input line 90.
+(pdftex.def)             Requested size: 124.9885pt x 99.99698pt.
 
-<figures/CRYSTAL_etaP.pdf, id=43, 658.46pt x 475.7775pt>
+<figures/CRYSTAL_etaP.pdf, id=41, 658.46pt x 475.7775pt>
 File: figures/CRYSTAL_etaP.pdf Graphic file (type pdf)
 
 <use figures/CRYSTAL_etaP.pdf>
-Package pdftex.def Info: figures/CRYSTAL_etaP.pdf used on input line 94.
-(pdftex.def)             Requested size: 200.0pt x 144.51299pt.
+Package pdftex.def Info: figures/CRYSTAL_etaP.pdf used on input line 97.
+(pdftex.def)             Requested size: 135.0pt x 97.54227pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[2 <./figures/triangleIII.pdf> <./figures/boxIII.pdf>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3 <./figures/clas_g11data.pdf> <./figures/Box_CLAS.pdf> <./figures/WASA_eta.pd
-f> <./figures/KLOE_eta.pdf>]
-<figures/omega_ff.pdf, id=111, 597.23125pt x 845.1575pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2 <./figures/clas_g11data.pdf> <./figures/Box_CLAS.pdf>]
+<figures/omega_ff.pdf, id=66, 597.23125pt x 845.1575pt>
 File: figures/omega_ff.pdf Graphic file (type pdf)
 
 <use figures/omega_ff.pdf>
-Package pdftex.def Info: figures/omega_ff.pdf used on input line 118.
-(pdftex.def)             Requested size: 150.00003pt x 149.99393pt.
+Package pdftex.def Info: figures/omega_ff.pdf used on input line 122.
+(pdftex.def)             Requested size: 139.99394pt x 109.99039pt.
 
-<figures/clas_omega_ff.pdf, id=112, 464.73625pt x 308.15125pt>
+<figures/clas_omega_ff.pdf, id=67, 464.73625pt x 308.15125pt>
 File: figures/clas_omega_ff.pdf Graphic file (type pdf)
 
 <use figures/clas_omega_ff.pdf>
-Package pdftex.def Info: figures/clas_omega_ff.pdf used on input line 126.
-(pdftex.def)             Requested size: 175.0pt x 116.03603pt.
+Package pdftex.def Info: figures/clas_omega_ff.pdf used on input line 130.
+(pdftex.def)             Requested size: 125.0pt x 82.8822pt.
 
-<figures/clas_omega_ff_q.pdf, id=113, 408.52625pt x 301.125pt>
+<figures/clas_omega_ff_q.pdf, id=68, 408.52625pt x 301.125pt>
 File: figures/clas_omega_ff_q.pdf Graphic file (type pdf)
 
 <use figures/clas_omega_ff_q.pdf>
-Package pdftex.def Info: figures/clas_omega_ff_q.pdf used on input line 132.
-(pdftex.def)             Requested size: 165.0pt x 121.62411pt.
+Package pdftex.def Info: figures/clas_omega_ff_q.pdf used on input line 136.
+(pdftex.def)             Requested size: 115.0pt x 84.76471pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[4 <./figures/CRYSTAL_etaP.pdf>]
-<figures/clas_etaP_ff.pdf, id=127, 922.44624pt x 314.17375pt>
+[3 <./figures/WASA_eta.pdf> <./figures/KLOE_eta.pdf> <./figures/CRYSTAL_etaP.pd
+f>] <figures/clas_etaP_ff.pdf, id=102, 922.44624pt x 314.17375pt>
 File: figures/clas_etaP_ff.pdf Graphic file (type pdf)
 
 <use figures/clas_etaP_ff.pdf>
-Package pdftex.def Info: figures/clas_etaP_ff.pdf used on input line 143.
-(pdftex.def)             Requested size: 399.9941pt x 149.9963pt.
+Package pdftex.def Info: figures/clas_etaP_ff.pdf used on input line 147.
+(pdftex.def)             Requested size: 274.99066pt x 124.99612pt.
+ (./tables/etaP_models.tex
+Overfull \hbox (2.5pt too wide) in paragraph at lines 24--24
+ []$[]$ 
+ []
 
+)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-(./LMD_report.bbl [5 <./figures/omega_ff.pdf> <./figures/clas_omega_ff.pdf> <./
-figures/clas_omega_ff_q.pdf>]
-Missing character: There is no Ã in font txr!
-Missing character: There is no ² in font txr!
-Missing character: There is no Ã in font txr!
-Missing character: There is no ¶ in font txr!
-Missing character: There is no Ã in font txr!
-Missing character: There is no ¶ in font txr!
+[4 <./figures/omega_ff.pdf> <./figures/clas_omega_ff.pdf> <./figures/clas_omega
+_ff_q.pdf>] <figures/clas12-design.pdf, id=138, 597.23125pt x 845.1575pt>
+File: figures/clas12-design.pdf Graphic file (type pdf)
+
+<use figures/clas12-design.pdf>
+Package pdftex.def Info: figures/clas12-design.pdf used on input line 157.
+(pdftex.def)             Requested size: 200.0pt x 283.02957pt.
+
+<figures/clas12_etaP.pdf, id=139, 794.97pt x 559.08875pt>
+File: figures/clas12_etaP.pdf Graphic file (type pdf)
+
+<use figures/clas12_etaP.pdf>
+Package pdftex.def Info: figures/clas12_etaP.pdf used on input line 163.
+(pdftex.def)             Requested size: 300.00534pt x 200.00067pt.
+ [5 <./figures/clas_etaP_ff.pdf> <./figures/clas12-design.pdf>] (./LMD_report.b
+bl
 Missing character: There is no Ã in font txr!
 Missing character: There is no ¼ in font txr!
-) [6 <./figures/clas_etaP_ff.pdf>]
+Missing character: There is no Ã in font txr!
+Missing character: There is no ³ in font txr!
+) [6 <./figures/clas12_etaP.pdf>]
 (./LMD_report.aux) ) 
 Here is how much of TeX's memory you used:
- 4000 strings out of 493117
- 58315 string characters out of 6135433
- 117288 words of memory out of 5000000
- 7375 multiletter control sequences out of 15000+600000
+ 4017 strings out of 493117
+ 58573 string characters out of 6135433
+ 116214 words of memory out of 5000000
+ 7392 multiletter control sequences out of 15000+600000
  58973 words of font info for 144 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,12n,42p,909b,351s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,12n,42p,2113b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r
 .enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc1
 0.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb>
@@ -468,10 +457,10 @@ xlive/2014/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2
 014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-
 dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on LMD_report.pdf (6 pages, 1297488 bytes).
+Output written on LMD_report.pdf (6 pages, 2294709 bytes).
 PDF statistics:
  204 PDF objects out of 1000 (max. 8388607)
- 137 compressed objects within 2 object streams
+ 138 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

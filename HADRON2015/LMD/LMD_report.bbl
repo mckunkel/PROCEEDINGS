@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year  (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{14}%
+\begin{thebibliography}{19}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -86,6 +86,13 @@
   {\bibinfo  {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume}
   {707}},\ \unskip\ \bibinfo {pages} {184 -- 190} (\bibinfo {year}
   {2012})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Gormley}\ \emph {et~al.}(1970)\citenamefont {Gormley}
+  \emph {et~al.}}]{grom}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Gormley}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Phys. Rev. D}\ }\textbf {\bibinfo {volume} {2}},\ \unskip\
+  \bibinfo {pages} {501--505} (\bibinfo {year} {1970})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Kroll}\ and\ \citenamefont {Wada}(1955)}]{bib4}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {N.~M.}\ \bibnamefont
@@ -100,14 +107,45 @@
   {Arnaldi}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
   {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume} {677}},\ \unskip\
   \bibinfo {pages} {260 -- 266} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Terschlüsen}\ and\ \citenamefont
+\bibitem [{\citenamefont {Terschlusen}\ and\ \citenamefont
   {Leupold}(2010)}]{bib6}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
-  {Terschlüsen}}\ and\ \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Terschlusen}}\ and\ \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
   {Leupold}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
   {Physics Letters B}\ }\textbf {\bibinfo {volume} {691}},\ \unskip\ \bibinfo
   {pages} {191 -- 201} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Schneider}\ \emph {et~al.}(2012)\citenamefont
+  {Schneider} \emph {et~al.}}]{Schneider}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~P.}\ \bibnamefont
+  {Schneider}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Phys. Rev.}\ }\textbf {\bibinfo {volume} {D86}},\ p.\ \bibinfo
+  {pages} {054013} (\bibinfo {year} {2012})},\ \Eprint
+  {http://arxiv.org/abs/1206.3098} {arXiv:1206.3098 [hep-ph]} \BibitemShut
+  {NoStop}%
+%%CITATION = ARXIV:1206.3098;%%
+\bibitem [{\citenamefont {Usai}(2011)}]{bib5_0}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Usai}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Nuclear
+  Physics A}\ }\textbf {\bibinfo {volume} {855}},\ \unskip\ \bibinfo {pages}
+  {189 -- 196} (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Dzhelyadin}\ \emph {et~al.}(1981)\citenamefont
+  {Dzhelyadin} \emph {et~al.}}]{LEPS}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Dzhelyadin}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+   {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume} {102}},\ \unskip\
+  \bibinfo {pages} {296 -- 298} (\bibinfo {year} {1981})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Blum}\ \emph {et~al.}(2013)\citenamefont {Blum} \emph
+  {et~al.}}]{gminus2}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Blum}} \emph {et~al.},\ }\href@noop {} {\  (\bibinfo {year} {2013})},\
+  \Eprint {http://arxiv.org/abs/1311.2198} {arXiv:1311.2198 [hep-ph]}
+  \BibitemShut {NoStop}%
+%%CITATION = ARXIV:1311.2198;%%
 \bibitem [{\citenamefont {Ablikim}\ \emph {et~al.}(2015)\citenamefont {Ablikim}
   \emph {et~al.}}]{bib7}%
   \BibitemOpen

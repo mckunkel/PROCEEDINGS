@@ -22,45 +22,47 @@ Control: page (0) single
 Control: year  (1) truncated
 Control: production of eprint (0) enabled
 Warning--empty year in lmdCAA
-You've used 14 entries,
+Warning--missing journal in gminus2
+Warning--empty chapter and pages in gminus2
+You've used 19 entries,
             6023 wiz_defined-function locations,
-            1701 strings with 16192 characters,
-and the built_in function-call counts, 14991 in all, are:
-= -- 1231
-> -- 330
-< -- 49
-+ -- 113
-- -- 84
-* -- 1915
-:= -- 1613
-add.period$ -- 14
-call.type$ -- 14
-change.case$ -- 56
-chr.to.int$ -- 14
-cite$ -- 15
-duplicate$ -- 1339
-empty$ -- 1088
-format.name$ -- 182
-if$ -- 3080
+            1730 strings with 17230 characters,
+and the built_in function-call counts, 19974 in all, are:
+= -- 1642
+> -- 433
+< -- 63
++ -- 150
+- -- 111
+* -- 2552
+:= -- 2160
+add.period$ -- 19
+call.type$ -- 19
+change.case$ -- 76
+chr.to.int$ -- 19
+cite$ -- 22
+duplicate$ -- 1796
+empty$ -- 1464
+format.name$ -- 239
+if$ -- 4100
 int.to.chr$ -- 1
-int.to.str$ -- 23
-missing$ -- 150
-newline$ -- 95
-num.names$ -- 42
-pop$ -- 515
+int.to.str$ -- 28
+missing$ -- 202
+newline$ -- 112
+num.names$ -- 57
+pop$ -- 695
 preamble$ -- 1
-purify$ -- 69
+purify$ -- 94
 quote$ -- 0
-skip$ -- 661
+skip$ -- 877
 stack$ -- 0
-substring$ -- 573
-swap$ -- 1222
-text.length$ -- 30
+substring$ -- 754
+swap$ -- 1629
+text.length$ -- 39
 text.prefix$ -- 0
 top$ -- 8
-type$ -- 218
-warning$ -- 2
-while$ -- 67
+type$ -- 295
+warning$ -- 4
+while$ -- 90
 width$ -- 0
-write$ -- 177
-(There were 2 warnings)
+write$ -- 223
+(There were 4 warnings)

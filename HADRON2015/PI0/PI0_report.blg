@@ -24,45 +24,46 @@ Control: production of eprint (0) enabled
 Warning--empty chapter and pages in scalingexp7
 Warning--empty chapter and pages in scalingexp4
 Warning--empty chapter and pages in scalingexp11
-You've used 13 entries,
+Warning--empty year in SAID
+You've used 30 entries,
             6023 wiz_defined-function locations,
-            1699 strings with 16546 characters,
-and the built_in function-call counts, 13628 in all, are:
-= -- 1107
-> -- 312
-< -- 45
-+ -- 105
-- -- 78
-* -- 1777
-:= -- 1465
-add.period$ -- 13
-call.type$ -- 13
-change.case$ -- 52
-chr.to.int$ -- 13
-cite$ -- 16
-duplicate$ -- 1226
-empty$ -- 978
-format.name$ -- 169
-if$ -- 2759
-int.to.chr$ -- 1
-int.to.str$ -- 22
-missing$ -- 140
-newline$ -- 92
-num.names$ -- 39
-pop$ -- 480
+            1819 strings with 18608 characters,
+and the built_in function-call counts, 30554 in all, are:
+= -- 2514
+> -- 659
+< -- 98
++ -- 231
+- -- 169
+* -- 3975
+:= -- 3313
+add.period$ -- 32
+call.type$ -- 30
+change.case$ -- 122
+chr.to.int$ -- 29
+cite$ -- 34
+duplicate$ -- 2773
+empty$ -- 2238
+format.name$ -- 358
+if$ -- 6235
+int.to.chr$ -- 2
+int.to.str$ -- 39
+missing$ -- 314
+newline$ -- 143
+num.names$ -- 90
+pop$ -- 1070
 preamble$ -- 1
-purify$ -- 65
+purify$ -- 149
 quote$ -- 0
-skip$ -- 597
+skip$ -- 1338
 stack$ -- 0
-substring$ -- 465
-swap$ -- 1127
-text.length$ -- 27
+substring$ -- 1055
+swap$ -- 2540
+text.length$ -- 63
 text.prefix$ -- 0
 top$ -- 8
-type$ -- 202
-warning$ -- 4
-while$ -- 62
+type$ -- 465
+warning$ -- 5
+while$ -- 140
 width$ -- 0
-write$ -- 168
-(There were 4 warnings)
+write$ -- 322
+(There were 5 warnings)

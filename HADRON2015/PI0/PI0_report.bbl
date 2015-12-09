@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year  (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{13}%
+\begin{thebibliography}{30}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -150,4 +150,135 @@
   {Schulte}}\ and\ \bibinfo {author} {\bibnamefont {others.}},\ }\href@noop {}
   {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
   {\bibinfo {volume} {87}} (\bibinfo {year} {2001})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Dugger}\ \emph {et~al.}(2007)\citenamefont {Dugger}
+  \emph {et~al.}}]{Dugger07}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Dugger}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Phys.Rev.}\ }\textbf {\bibinfo {volume} {C76}},\ p.\ \bibinfo
+  {pages} {025211} (\bibinfo {year} {2007})},\ \Eprint
+  {http://arxiv.org/abs/0705.0816} {0705.0816} \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Bartholomy}\ \emph {et~al.}(2005)\citenamefont
+  {Bartholomy} \emph {et~al.}}]{ELSA05}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {O.}~\bibnamefont
+  {Bartholomy}} \emph {et~al.} (\bibinfo {collaboration} {CB-ELSA
+  Collaboration}),\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Phys.Rev.Lett.}\ }\textbf {\bibinfo {volume} {94}},\ p.\ \bibinfo {pages}
+  {012003} (\bibinfo {year} {2005})},\ \Eprint
+  {http://arxiv.org/abs/hep-ex/0407022} {hep-ex/0407022} \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Crede}\ \emph {et~al.}(2011)\citenamefont {Crede}
+  \emph {et~al.}}]{ELSA11}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
+  {Crede}} \emph {et~al.} (\bibinfo {collaboration} {CBELSA/TAPS
+  Collaboration}),\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Phys.Rev.}\ }\textbf {\bibinfo {volume} {C84}},\ p.\ \bibinfo {pages}
+  {055203} (\bibinfo {year} {2011})},\ \Eprint {http://arxiv.org/abs/1107.2151}
+  {1107.2151} \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Bartalini}\ \emph {et~al.}(2005)\citenamefont
+  {Bartalini} \emph {et~al.}}]{Graal}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {O.}~\bibnamefont
+  {Bartalini}} \emph {et~al.} (\bibinfo {collaboration} {GRAAL
+  Collaboration}),\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Eur.Phys.J.}\ }\textbf {\bibinfo {volume} {A26}},\ \unskip\ \bibinfo {pages}
+  {399--419} (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sumihama}\ \emph {et~al.}(2007)\citenamefont
+  {Sumihama} \emph {et~al.}}]{LEPS}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Sumihama}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Phys.Lett.}\ }\textbf {\bibinfo {volume} {B657}},\ \unskip\
+  \bibinfo {pages} {32--37} (\bibinfo {year} {2007})},\ \Eprint
+  {http://arxiv.org/abs/0708.1600} {0708.1600} \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Braunschweig}\ \emph {et~al.}(1968)\citenamefont
+  {Braunschweig} \emph {et~al.}}]{brem}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Braunschweig}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume} {26}},\
+  \unskip\ \bibinfo {pages} {405 -- 409} (\bibinfo {year} {1968})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Anisovich}\ \emph {et~al.}(2010)\citenamefont
+  {Anisovich} \emph {et~al.}}]{BonnGat}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Anisovich}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Eur.Phys.J.}\ }\textbf {\bibinfo {volume} {A44}},\ \unskip\
+  \bibinfo {pages} {203--220} (\bibinfo {year} {2010})},\ \Eprint
+  {http://arxiv.org/abs/0911.5277} {0911.5277} \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Briscoe}\ \emph {et~al.}()\citenamefont {Briscoe}
+  \emph {et~al.}}]{SAID}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
+  {Briscoe}} \emph {et~al.},\ }\href@noop {} {\bibinfo {title} {{Institute of
+  Nuclear Studies of The George Washington University Database}},\ }\
+  \unskip\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Dugger}\ \emph {et~al.}(2013)\citenamefont {Dugger}
+  \emph {et~al.}}]{Dugger13}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Dugger}} \emph {et~al.} (\bibinfo {collaboration} {CLAS Collaboration}),\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Phys.Rev.}\
+  }\textbf {\bibinfo {volume} {C88}},\ p.\ \bibinfo {pages} {065203} (\bibinfo
+  {year} {2013})},\ \Eprint {http://arxiv.org/abs/1308.4028} {1308.4028}
+  \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ji}(1997{\natexlab{a}})}]{key1}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {X.-D.}\ \bibnamefont
+  {Ji}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Phys.Rev.Lett.}\ }\textbf {\bibinfo {volume} {78}},\ \unskip\ \bibinfo
+  {pages} {610--613} (\bibinfo {year} {1997}{\natexlab{a}})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Ji}(1997{\natexlab{b}})}]{key2}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {X.}~\bibnamefont
+  {Ji}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev.
+  D}\ }\textbf {\bibinfo {volume} {55}},\ \unskip\ \bibinfo {pages}
+  {7114--7125} (\bibinfo {year} {1997}{\natexlab{b}})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Radyushkin}(1996)}]{Rad1996}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Radyushkin}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Phys.Lett.}\ }\textbf {\bibinfo {volume} {B380}},\ \unskip\ \bibinfo {pages}
+  {417--425} (\bibinfo {year} {1996})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Diehl}\ \emph {et~al.}(1999)\citenamefont {Diehl},
+  \citenamefont {Feldmann}, \citenamefont {Jakob},\ and\ \citenamefont
+  {Kroll}}]{Diehl}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Diehl}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Feldmann}},
+  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Jakob}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {P.}~\bibnamefont {Kroll}},\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Eur.Phys.J.}\ }\textbf {\bibinfo
+  {volume} {C8}},\ \unskip\ \bibinfo {pages} {409--434} (\bibinfo {year}
+  {1999})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Huang}\ and\ \citenamefont
+  {Kroll}(2000)}]{Huang2000}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.~W.}\ \bibnamefont
+  {Huang}}\ and\ \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Kroll}},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Eur.Phys.J.}\
+  }\textbf {\bibinfo {volume} {C17}},\ \unskip\ \bibinfo {pages} {423--435}
+  (\bibinfo {year} {2000})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Beck}(2006)}]{beck}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Beck}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Eur.
+  Phys. J. A,}\ }\textbf {\bibinfo {volume} {28}},\ \unskip\ \bibinfo {pages}
+  {173--183} (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Joss}(1970)}]{Joos}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Joss}},\ }\href@noop {} {\bibinfo {title} {Compilation of photoproduction
+  data above 1.2~gev},\ }\  \bibinfo {year} {1970} \unskip\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Fuchs}\ \emph {et~al.}(1996)\citenamefont {Fuchs}
+  \emph {et~al.}}]{Fuchs}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Fuchs}} \emph {et~al.},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Physics Letters B}\ }\textbf {\bibinfo {volume} {368}},\ \unskip\
+  \bibinfo {pages} {20 -- 25} (\bibinfo {year} {1996})}\BibitemShut {NoStop}%
 \end{thebibliography}%

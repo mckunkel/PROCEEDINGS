@@ -244,7 +244,8 @@
        \ifx\@corref\@empty\else\unskip\sep\@corref\let\sep=,\fi%
        \@ifundefined{r@ead@ref@\romannumeral\the\eadrcount}{}{\unskip\sep\ref{ead@ref@\romannumeral\the\eadrcount}}%
        }%
-    \ifnum\numberofauthors=\the\eadrcount\def\authorsep{and\space}\else\def\authorsep{\unskip,\space}\fi%
+    %\ifnum\numberofauthors=\the\eadrcount\def\authorsep{and\space}\else\def\authorsep{\unskip,\space}\fi%
+    \ifnum\numberofauthors=\the\eadrcount\def\authorsep{\\ \space}\else\def\authorsep{\unskip,\space}\fi%
      \global\let\sep\@empty\global\let\@corref\@empty%
 }}
 

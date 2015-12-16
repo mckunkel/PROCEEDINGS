@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  23 NOV 2015 10:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  15 DEC 2015 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -319,14 +319,14 @@ File: figures/clas_schematicIII.pdf Graphic file (type pdf)
 <use figures/clas_schematicIII.pdf>
 Package pdftex.def Info: figures/clas_schematicIII.pdf used on input line 31.
 (pdftex.def)             Requested size: 175.0pt x 123.66345pt.
-Missing character: There is no â in font txr!
-Missing character: There is no € in font txr!
-Missing character: There is no ¨ in font txr!
-Missing character: There is no â in font txr!
-Missing character: There is no € in font txr!
-Missing character: There is no ¨ in font txr!
  [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./fi
 gures/clas_schematicIII.pdf>]
+Missing character: There is no â in font txr!
+Missing character: There is no € in font txr!
+Missing character: There is no ¨ in font txr!
+Missing character: There is no â in font txr!
+Missing character: There is no € in font txr!
+Missing character: There is no ¨ in font txr!
 Missing character: There is no â in font txr!
 Missing character: There is no € in font txr!
 Missing character: There is no ¨ in font txr!
@@ -381,31 +381,31 @@ Package pdftex.def Info: figures/CRYSTAL_etaP.pdf used on input line 99.
 (pdftex.def)             Requested size: 135.0pt x 97.54227pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2 <./figures/clas_g11data.pdf> <./figures/Box_CLAS.pdf>]
-<figures/omega_ff_bastian_edit.pdf, id=66, 1027.84pt x 770.88pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2 <./figures/clas_g11data.pdf>]
+<figures/omega_ff_bastian_edit.pdf, id=56, 1027.84pt x 770.88pt>
 File: figures/omega_ff_bastian_edit.pdf Graphic file (type pdf)
 
 <use figures/omega_ff_bastian_edit.pdf>
 Package pdftex.def Info: figures/omega_ff_bastian_edit.pdf used on input line 1
 28.
 (pdftex.def)             Requested size: 249.99586pt x 129.98923pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figures/clas_omega_ff_II.pdf, id=67, 984.67876pt x 667.49374pt>
+ [3 <./figures/Box_CLAS.pdf> <./figures/WASA_eta.pdf> <./figures/KLOE_eta.pdf> 
+<./figures/CRYSTAL_etaP.pdf>]
+<figures/clas_omega_ff_II.pdf, id=100, 984.67876pt x 667.49374pt>
 File: figures/clas_omega_ff_II.pdf Graphic file (type pdf)
 
 <use figures/clas_omega_ff_II.pdf>
 Package pdftex.def Info: figures/clas_omega_ff_II.pdf used on input line 136.
 (pdftex.def)             Requested size: 150.0pt x 101.67805pt.
- [3 <./figures/WASA_eta.pdf> <./figures/KLOE_eta.pdf> <./figures/CRYSTAL_etaP.p
-df>]
+
 <figures/clas_etaP_ff_II.pdf, id=101, 645.41125pt x 440.64626pt>
 File: figures/clas_etaP_ff_II.pdf Graphic file (type pdf)
 
@@ -443,25 +443,22 @@ File: figures/clas12_etaP.pdf Graphic file (type pdf)
 <use figures/clas12_etaP.pdf>
 Package pdftex.def Info: figures/clas12_etaP.pdf used on input line 162.
 (pdftex.def)             Requested size: 350.00623pt x 255.0pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[4 <./figures/omega_ff_bastian_edit.pdf> <./figures/clas_omega_ff_II.pdf>]
-[5 <./figures/clas_etaP_ff_II.pdf> <./figures/clas12-design.pdf>]
-(./LMD_report.bbl
+ [4 <./figures/omega_ff_bastian_edit.pdf> <./figures/clas_omega_ff_II.pdf>] [5 
+<./figures/clas_etaP_ff_II.pdf> <./figures/clas12-design.pdf>] (./LMD_report.bb
+l
 Missing character: There is no Ã in font txr!
 Missing character: There is no ³ in font txr!
-) [6 <./figures/clas12_etaP.pdf>] (./LMD_report.aux)
+) [6 <./figures/clas12_etaP.pdf>]
+(./LMD_report.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4038 strings out of 493117
- 58859 string characters out of 6135433
- 118473 words of memory out of 5000000
- 7410 multiletter control sequences out of 15000+600000
+ 4040 strings out of 493117
+ 58885 string characters out of 6135433
+ 118472 words of memory out of 5000000
+ 7412 multiletter control sequences out of 15000+600000
  62122 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,12n,42p,2031b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -475,7 +472,7 @@ st/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2014/texmf-dist/font
 s/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/ur
 w/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/ut
 mri8a.pfb>
-Output written on LMD_report.pdf (6 pages, 2319291 bytes).
+Output written on LMD_report.pdf (6 pages, 2319263 bytes).
 PDF statistics:
  200 PDF objects out of 1000 (max. 8388607)
  135 compressed objects within 2 object streams

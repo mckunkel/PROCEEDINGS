@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  15 DEC 2015 16:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  22 MAR 2016 14:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -350,34 +350,34 @@ Missing character: There is no ¨ in font txr!
 File: figures/clas_g11data.pdf Graphic file (type pdf)
 
 <use figures/clas_g11data.pdf>
-Package pdftex.def Info: figures/clas_g11data.pdf used on input line 71.
-(pdftex.def)             Requested size: 175.0pt x 106.66196pt.
+Package pdftex.def Info: figures/clas_g11data.pdf used on input line 72.
+(pdftex.def)             Requested size: 275.00023pt x 200.00235pt.
 
 <figures/Box_CLAS.pdf, id=38, 843.15pt x 346.29375pt>
 File: figures/Box_CLAS.pdf Graphic file (type pdf)
 
 <use figures/Box_CLAS.pdf>
-Package pdftex.def Info: figures/Box_CLAS.pdf used on input line 76.
+Package pdftex.def Info: figures/Box_CLAS.pdf used on input line 77.
 (pdftex.def)             Requested size: 275.0pt x 112.94571pt.
  <figures/WASA_eta.pdf, id=39, 766.865pt x 554.07pt>
 File: figures/WASA_eta.pdf Graphic file (type pdf)
 
 <use figures/WASA_eta.pdf>
-Package pdftex.def Info: figures/WASA_eta.pdf used on input line 85.
+Package pdftex.def Info: figures/WASA_eta.pdf used on input line 86.
 (pdftex.def)             Requested size: 125.0pt x 90.31007pt.
 
 <figures/KLOE_eta.pdf, id=40, 845.1575pt x 597.23125pt>
 File: figures/KLOE_eta.pdf Graphic file (type pdf)
 
 <use figures/KLOE_eta.pdf>
-Package pdftex.def Info: figures/KLOE_eta.pdf used on input line 92.
+Package pdftex.def Info: figures/KLOE_eta.pdf used on input line 93.
 (pdftex.def)             Requested size: 124.9885pt x 99.99698pt.
 
 <figures/CRYSTAL_etaP.pdf, id=41, 658.46pt x 475.7775pt>
 File: figures/CRYSTAL_etaP.pdf Graphic file (type pdf)
 
 <use figures/CRYSTAL_etaP.pdf>
-Package pdftex.def Info: figures/CRYSTAL_etaP.pdf used on input line 99.
+Package pdftex.def Info: figures/CRYSTAL_etaP.pdf used on input line 100.
 (pdftex.def)             Requested size: 135.0pt x 97.54227pt.
 
 
@@ -389,67 +389,62 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2 <./figures/clas_g11data.pdf>]
-<figures/omega_ff_bastian_edit.pdf, id=56, 1027.84pt x 770.88pt>
+[2 <./figures/clas_g11data.pdf>] [3 <./figures/Box_CLAS.pdf> <./figures/WASA_et
+a.pdf> <./figures/KLOE_eta.pdf> <./figures/CRYSTAL_etaP.pdf>]
+<figures/omega_ff_bastian_edit.pdf, id=99, 1027.84pt x 770.88pt>
 File: figures/omega_ff_bastian_edit.pdf Graphic file (type pdf)
 
 <use figures/omega_ff_bastian_edit.pdf>
 Package pdftex.def Info: figures/omega_ff_bastian_edit.pdf used on input line 1
-28.
+29.
 (pdftex.def)             Requested size: 249.99586pt x 129.98923pt.
- [3 <./figures/Box_CLAS.pdf> <./figures/WASA_eta.pdf> <./figures/KLOE_eta.pdf> 
-<./figures/CRYSTAL_etaP.pdf>]
+
 <figures/clas_omega_ff_II.pdf, id=100, 984.67876pt x 667.49374pt>
 File: figures/clas_omega_ff_II.pdf Graphic file (type pdf)
 
 <use figures/clas_omega_ff_II.pdf>
-Package pdftex.def Info: figures/clas_omega_ff_II.pdf used on input line 136.
+Package pdftex.def Info: figures/clas_omega_ff_II.pdf used on input line 137.
 (pdftex.def)             Requested size: 150.0pt x 101.67805pt.
 
 <figures/clas_etaP_ff_II.pdf, id=101, 645.41125pt x 440.64626pt>
 File: figures/clas_etaP_ff_II.pdf Graphic file (type pdf)
 
 <use figures/clas_etaP_ff_II.pdf>
-Package pdftex.def Info: figures/clas_etaP_ff_II.pdf used on input line 145.
+Package pdftex.def Info: figures/clas_etaP_ff_II.pdf used on input line 146.
 (pdftex.def)             Requested size: 160.0pt x 109.23341pt.
- (./tables/etaP_models.tex
-Overfull \hbox (2.5pt too wide) in paragraph at lines 25--25
- []$[]$ 
- []
-
-)
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+ (./tables/etaP_models.tex) [4 <./figures/omega_ff_bastian_edit.pdf> <./figures
+/clas_omega_ff_II.pdf>]
 
 LaTeX Font Warning: Font shape `OT1/cmtt/bx/sc' undefined
-(Font)              using `OT1/cmtt/bx/n' instead on input line 152.
+(Font)              using `OT1/cmtt/bx/n' instead on input line 153.
 
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 152.
-<figures/clas12-design.pdf, id=102, 597.23125pt x 845.1575pt>
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 153.
+<figures/clas12-design.pdf, id=130, 597.23125pt x 845.1575pt>
 File: figures/clas12-design.pdf Graphic file (type pdf)
 
 <use figures/clas12-design.pdf>
-Package pdftex.def Info: figures/clas12-design.pdf used on input line 155.
+Package pdftex.def Info: figures/clas12-design.pdf used on input line 156.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<figures/clas12_etaP.pdf, id=103, 794.97pt x 559.08875pt>
+<figures/clas12_etaP.pdf, id=131, 794.97pt x 559.08875pt>
 File: figures/clas12_etaP.pdf Graphic file (type pdf)
 
 <use figures/clas12_etaP.pdf>
-Package pdftex.def Info: figures/clas12_etaP.pdf used on input line 162.
+Package pdftex.def Info: figures/clas12_etaP.pdf used on input line 163.
 (pdftex.def)             Requested size: 350.00623pt x 255.0pt.
- [4 <./figures/omega_ff_bastian_edit.pdf> <./figures/clas_omega_ff_II.pdf>] [5 
-<./figures/clas_etaP_ff_II.pdf> <./figures/clas12-design.pdf>] (./LMD_report.bb
-l
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+(./LMD_report.bbl [5 <./figures/clas_etaP_ff_II.pdf>] [6 <./figures/clas12-desi
+gn.pdf> <./figures/clas12_etaP.pdf>]
 Missing character: There is no Ã in font txr!
 Missing character: There is no ³ in font txr!
-) [6 <./figures/clas12_etaP.pdf>]
-(./LMD_report.aux)
+) [7] (./LMD_report.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -457,11 +452,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  4040 strings out of 493117
  58885 string characters out of 6135433
- 118472 words of memory out of 5000000
+ 115472 words of memory out of 5000000
  7412 multiletter control sequences out of 15000+600000
  62122 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,12n,42p,2031b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,10n,42p,2027b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/local/
 texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/t
@@ -472,10 +467,10 @@ st/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2014/texmf-dist/font
 s/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/ur
 w/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/ut
 mri8a.pfb>
-Output written on LMD_report.pdf (6 pages, 2319263 bytes).
+Output written on LMD_report.pdf (7 pages, 2319916 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
- 135 compressed objects within 2 object streams
+ 205 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

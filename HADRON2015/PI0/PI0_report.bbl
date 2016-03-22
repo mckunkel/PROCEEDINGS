@@ -208,13 +208,13 @@
   {journal} {Eur.Phys.J.}\ }\textbf {\bibinfo {volume} {A44}},\ \unskip\
   \bibinfo {pages} {203--220} (\bibinfo {year} {2010})},\ \Eprint
   {http://arxiv.org/abs/0911.5277} {0911.5277} \BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Briscoe}\ \emph {et~al.}()\citenamefont {Briscoe}
-  \emph {et~al.}}]{SAID}%
+\bibitem [{\citenamefont {{W.J.~Briscoe and others}}(2016)}]{SAID}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
-  {Briscoe}} \emph {et~al.},\ }\href@noop {} {\bibinfo {title} {{Institute of
-  Nuclear Studies of The George Washington University Database}},\ }\
-  \unskip\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{W.J.~Briscoe and
+  others}}},\ }\href@noop {} {\bibinfo {title} {{Institute of Nuclear Studies
+  of The George Washington University Database}},\ }\ \bibinfo {howpublished}
+  {\url{http://gwdac.phys.gwu.edu/}} ( \bibinfo {year} {2016} \unskip),\
+  \bibinfo {note} {accessed: 2015-12-01}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Dugger}\ \emph {et~al.}(2013)\citenamefont {Dugger}
   \emph {et~al.}}]{Dugger13}%
   \BibitemOpen

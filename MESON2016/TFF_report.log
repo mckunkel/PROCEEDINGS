@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  12 SEP 2016 09:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.3.18)  13 SEP 2016 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1099,44 +1099,44 @@ Package cleveref Info: `subfig' support loaded on input line 2983.
 (./TFF_report.aux)
 \openout1 = `TFF_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 42.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 42.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 37.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 37.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 42.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 42.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 37.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 37.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 42.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 42.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 37.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 37.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 42.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 42.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 37.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 37.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Try loading font information for T1+txr on input line 42.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Try loading font information for T1+txr on input line 37.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/t1txr.fd
 File: t1txr.fd 2000/12/15 v3.1
@@ -1217,7 +1217,7 @@ Package: fr-subfig 2007/12/24 v0.1g (beta) floatrow: additions for subfig
 )
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box49
-Package hyperref Info: Link coloring OFF on input line 42.
+Package hyperref Info: Link coloring OFF on input line 37.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1227,119 +1227,122 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count166
 )
-LaTeX Info: Redefining \ref on input line 42.
-LaTeX Info: Redefining \pageref on input line 42.
-LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
 
 (./TFF_report.out) (./TFF_report.out)
 \@outlinefile=\write4
 \openout4 = `TFF_report.out'.
 
-LaTeX Font Info:    Try loading font information for T1+txss on input line 62.
+LaTeX Font Info:    Try loading font information for T1+txss on input line 54.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/t1txss.fd
 File: t1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 13.29996pt on input line 62.
+(Font)              scaled to size 13.29996pt on input line 54.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 13.29996pt on input line 62.
+(Font)              scaled to size 13.29996pt on input line 54.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 62.
+(Font)              scaled to size 11.39996pt on input line 54.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 11.39996pt on input line 62.
+(Font)              scaled to size 11.39996pt on input line 54.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 62.
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 62.
+(Font)              scaled to size 9.49997pt on input line 54.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 54.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsya on input line 62.
+LaTeX Font Info:    Try loading font information for U+txsya on input line 54.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 62.
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 54.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txmia on input line 62.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 54.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 62.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 54.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for OT1+txss on input line 62.
+LaTeX Font Info:    Try loading font information for OT1+txss on input line 54.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/ot1txss.fd
 File: ot1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 62.
+(Font)              scaled to size 9.49997pt on input line 54.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 62.
+(Font)              scaled to size 6.64998pt on input line 54.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 62.
+(Font)              scaled to size 4.74998pt on input line 54.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 62.
+(Font)              scaled to size 6.64998pt on input line 54.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 62.
+(Font)              scaled to size 7.59998pt on input line 54.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 62.
+(Font)              scaled to size 5.69998pt on input line 54.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 62.
+(Font)              scaled to size 8.54997pt on input line 54.
 LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 62.
+(Font)              scaled to size 8.54997pt on input line 54.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 62.
+(Font)              scaled to size 8.54997pt on input line 54.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 62.
-LaTeX Font Info:    Try loading font information for T1+txtt on input line 64.
+(Font)              scaled to size 5.69998pt on input line 54.
+LaTeX Font Info:    Try loading font information for T1+txtt on input line 56.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
 )
+(./tables/lmd_channels.tex)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 9.49997pt on input line 77.
+(Font)              scaled to size 9.49997pt on input line 68.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 68.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 77.
+(hyperref)                removing `\eta' on input line 68.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\eta' on input line 77.
+(hyperref)                removing `math shift' on input line 68.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 77.
+(hyperref)                removing `math shift' on input line 68.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 77.
+(hyperref)                removing `\eta' on input line 68.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\eta' on input line 77.
+(hyperref)                removing `superscript' on input line 68.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 77.
+(hyperref)                removing `\prime' on input line 68.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\prime' on input line 77.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 77.
+(hyperref)                removing `math shift' on input line 68.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -1350,82 +1353,136 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figures/clas_g11data.pdf, id=64, 801.99625pt x 488.82625pt>
+<figures/clas_g11data.pdf, id=67, 801.99625pt x 488.82625pt>
 File: figures/clas_g11data.pdf Graphic file (type pdf)
 
 <use figures/clas_g11data.pdf>
-Package pdftex.def Info: figures/clas_g11data.pdf used on input line 98.
-(pdftex.def)             Requested size: 149.99455pt x 99.99371pt.
+Package pdftex.def Info: figures/clas_g11data.pdf used on input line 91.
+(pdftex.def)             Requested size: 174.9957pt x 145.00058pt.
 
-<figures/GeorgieLMD_May_06_16_tempIII.pdf, id=65, 415.06998pt x 403.1094pt>
+<figures/GeorgieLMD_May_06_16_tempIII.pdf, id=68, 415.06998pt x 403.1094pt>
 File: figures/GeorgieLMD_May_06_16_tempIII.pdf Graphic file (type pdf)
 
 <use figures/GeorgieLMD_May_06_16_tempIII.pdf>
 Package pdftex.def Info: figures/GeorgieLMD_May_06_16_tempIII.pdf used on input
- line 103.
+ line 94.
 (pdftex.def)             Requested size: 150.0pt x 145.679pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2 <./figures/clas_g11data.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 108.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\eta' on input line 108.
+(hyperref)                removing `math shift' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 108.
+(hyperref)                removing `\eta' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\prime' on input line 108.
+(hyperref)                removing `superscript' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\to' on input line 108.
+(hyperref)                removing `\prime' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pi' on input line 108.
+(hyperref)                removing `\to' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 108.
+(hyperref)                removing `\pi' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pi' on input line 108.
+(hyperref)                removing `superscript' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 108.
+(hyperref)                removing `\pi' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\eta' on input line 108.
+(hyperref)                removing `superscript' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 108.
+(hyperref)                removing `\eta' on input line 98.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 115.
+(hyperref)                removing `math shift' on input line 98.
+
+[2]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 106.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\omega' on input line 115.
+(hyperref)                removing `\omega' on input line 106.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 115.
+(hyperref)                removing `math shift' on input line 106.
 
-[3 <./figures/GeorgieLMD_May_06_16_tempIII.pdf>]
+<figures/omega_ff_bastian_edit.pdf, id=106, 1027.84pt x 770.88pt>
+File: figures/omega_ff_bastian_edit.pdf Graphic file (type pdf)
+
+<use figures/omega_ff_bastian_edit.pdf>
+Package pdftex.def Info: figures/omega_ff_bastian_edit.pdf used on input line 1
+23.
+(pdftex.def)             Requested size: 249.99586pt x 129.98923pt.
+ [3 <./figures/clas_g11data.pdf> <./figures/GeorgieLMD_May_06_16_tempIII.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 137.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\eta' on input line 137.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 137.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\prime' on input line 137.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightarrow' on input line 137.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 137.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 137.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 137.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 137.
+
+<figures/etaPeeg_mimass.pdf, id=221, 555.3832pt x 385.0989pt>
+File: figures/etaPeeg_mimass.pdf Graphic file (type pdf)
+
+<use figures/etaPeeg_mimass.pdf>
+Package pdftex.def Info: figures/etaPeeg_mimass.pdf used on input line 140.
+(pdftex.def)             Requested size: 160.0pt x 110.9413pt.
+ (./tables/etaP_models.tex) [4 <./figures/omega_ff_bastian_edit.pdf> <./figures
+/etaPeeg_mimass.pdf>]
+LaTeX Font Info:    Font shape `T1/txss/bx/sc' will be
+(Font)              scaled to size 9.49997pt on input line 147.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 147.
@@ -1444,108 +1501,48 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightarrow' on input line 147.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 147.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 147.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\gamma' on input line 147.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 147.
 
-<figures/etaPeeg_mimass.pdf, id=190, 555.3832pt x 385.0989pt>
-File: figures/etaPeeg_mimass.pdf Graphic file (type pdf)
-
-<use figures/etaPeeg_mimass.pdf>
-Package pdftex.def Info: figures/etaPeeg_mimass.pdf used on input line 150.
-(pdftex.def)             Requested size: 160.0pt x 110.9413pt.
- (./tables/etaP_models.tex
-
-Package natbib Warning: Citation `bib9' on page 4 undefined on input line 12.
-
-)
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[4 <./figures/etaPeeg_mimass.pdf>]
-LaTeX Font Info:    Font shape `T1/txss/bx/sc' will be
-(Font)              scaled to size 9.49997pt on input line 157.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 157.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\eta' on input line 157.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 157.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\prime' on input line 157.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 157.
-
-<figures/counts.pdf, id=286, 569.12625pt x 225.84375pt>
+<figures/counts.pdf, id=331, 569.12625pt x 225.84375pt>
 File: figures/counts.pdf Graphic file (type pdf)
 
 <use figures/counts.pdf>
-Package pdftex.def Info: figures/counts.pdf used on input line 185.
-(pdftex.def)             Requested size: 249.99948pt x 155.00873pt.
+Package pdftex.def Info: figures/counts.pdf used on input line 175.
+(pdftex.def)             Requested size: 200.00479pt x 155.00873pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figures/result.pdf, id=287, 569.12625pt x 225.84375pt>
+<figures/result.pdf, id=332, 569.12625pt x 225.84375pt>
 File: figures/result.pdf Graphic file (type pdf)
 
 <use figures/result.pdf>
-Package pdftex.def Info: figures/result.pdf used on input line 190.
-(pdftex.def)             Requested size: 224.9978pt x 155.00873pt.
+Package pdftex.def Info: figures/result.pdf used on input line 178.
+(pdftex.def)             Requested size: 200.00479pt x 155.00873pt.
+
+Overfull \hbox (5.98045pt too wide) in paragraph at lines 175--179
+ [][][][] 
+ []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 <./figures/counts.pdf, page is rotated 90 degrees> <./figures/result.pdf, p
-age is rotated 90 degrees>]
-
-Package natbib Warning: There were undefined citations.
-
-[7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
+[5] (./TFF_report.bbl [6 <./figures/counts.pdf, page is rotated 90 degrees> <./
+figures/result.pdf, page is rotated 90 degrees>]) [7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 281.
  (./TFF_report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 297.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 281.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 281.
 Package rerunfilecheck Info: File `TFF_report.out' has not changed.
-(rerunfilecheck)             Checksum: 9C7304F659E2DBD168594DFA55D1D73E;614.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 297.
+(rerunfilecheck)             Checksum: 7ABE795F16CB947A22F351525166469A;656.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 281.
  ) 
 Here is how much of TeX's memory you used:
- 22225 strings out of 493117
- 402894 string characters out of 6135433
- 499343 words of memory out of 5000000
- 25167 multiletter control sequences out of 15000+600000
- 94021 words of font info for 141 fonts, out of 8000000 for 9000
+ 22275 strings out of 493117
+ 403723 string characters out of 6135433
+ 500343 words of memory out of 5000000
+ 25199 multiletter control sequences out of 15000+600000
+ 94343 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,14n,77p,985b,505s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,14n,87p,985b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
@@ -1563,19 +1560,20 @@ t/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/
 fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2014/texmf-dist/fonts/
 type1/public/txfonts/rtxr.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/p
 ublic/txfonts/t1xbttsc.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publ
-ic/txfonts/t1xttsc.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/t
-xfonts/txex.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/txfonts/
-txsy.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/txfonts/txsya.p
-fb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/tex
-mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fo
-nts/type1/urw/times/utmri8a.pfb>
-Output written on TFF_report.pdf (7 pages, 747390 bytes).
+ic/txfonts/t1xtt.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/txf
+onts/t1xttsc.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/txfonts
+/txex.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/txfonts/txsy.p
+fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dis
+t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on TFF_report.pdf (7 pages, 831604 bytes).
 PDF statistics:
- 475 PDF objects out of 1000 (max. 8388607)
- 355 compressed objects within 4 object streams
- 49 named destinations out of 1000 (max. 500000)
- 94 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 534 PDF objects out of 1000 (max. 8388607)
+ 395 compressed objects within 4 object streams
+ 59 named destinations out of 1000 (max. 500000)
+ 107 words of extra memory for PDF output out of 10000 (max. 10000000)
 

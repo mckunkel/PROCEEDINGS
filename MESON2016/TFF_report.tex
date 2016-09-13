@@ -14,9 +14,6 @@
 \documentclass[epj]{webofc}
 
 \usepackage[varg]{txfonts}   % Web of Conferences font
-%
-% Put here some packages required or/and some personnal commands
-%
 \usepackage{fancyhdr}
 \usepackage{subfig}
 \usepackage{floatrow}
@@ -37,16 +34,11 @@
 \def\epem{e^+e^-}
 
 \woctitle{MESON2016 - the 14$^\textrm{th}$ International Workshop on Meson Production, Properties and Interaction}
-%
-%
 \begin{document}
-%
 \selectlanguage{english}
 \title{Light Meson Decays from Photon-Induced Reactions with CLAS}
 
-% insert email only for speaker/presenter
 \author{Michael C. Kunkel\inst{1}\fnsep\thanks{\email{m.kunkel@fz-juelich.de}}         
-% comment out the next line if not needed
        \\for the CLAS Collaboration
 }
 
@@ -71,40 +63,38 @@ The light meson group was established in 2013. The goal of the group is to inves
 %\caption{The CEBAF Large Acceptance Spectrometer (\textsc{\texttt{CLAS}}).}
 %\label{fig:clas}       % Give a unique label
 %\end{figure}
-Since decays of hadrons are independent of production, all \textsc{\texttt{CLAS}} data can be used, however there are two experiments that were chosen as flagships for the program, the g11 and g12 experiment. Both experiments use a photon beam incident on a liquid hydrogen target which created photo-induced reactions with photon beam energies of 800~MeV - 3.8~GeV for g11 and 1.1~GeV - 5.5~GeV for g12.  See~\cite{lmdCAA} for a complete list of meson decays the LMD group plans to investigate.
-%See Table~\ref{tab:lmd.channels} for a list of meson decays the LMD group plans to investigate.
-%\input{tables/lmd_channels}
+Since decays of hadrons are independent of production, all \textsc{\texttt{CLAS}} data can be used, however there are two experiments that were chosen as flagships for the program, the g11 and g12 experiment. Both experiments use a photon beam incident on a liquid hydrogen target which created photo-induced reactions with photon beam energies of 800~MeV - 3.8~GeV for g11 and 1.1~GeV - 5.5~GeV for g12.  See~\cite{lmdCAA} for a complete list of meson decays the LMD group plans to investigate. See Table~\ref{tab:lmd.channels} for a list of meson decays the LMD group plans to investigate.
+\input{tables/lmd_channels}
 \subsection{The Radiative Decay of the $\eta$ and $\eta^\prime$  Meson}
-The two-photon decay of the pseudoscalar mesons $\pi^0, \eta , \eta^{\prime} \to \gamma \gamma $ proceed via the triangle or axial anomaly. Radiative decays of  $\eta , \ \eta^{\prime} \to \pi^+ \pi^- \gamma $ are related to the box anomaly. The radiative decay widths of $ \eta^{\prime}$ and $\eta^{\prime}$ are determined by the box anomaly in the chiral limit by 
-Eq.~\ref{eq:decaywidth};
+%The two-photon decay of the pseudoscalar mesons $\pi^0, \eta , \eta^{\prime} \to \gamma \gamma $ proceed via the triangle or axial anomaly.
+Radiative decays of  $\eta , \ \eta^{\prime} \to \pi^+ \pi^- \gamma $ are tools to explore QCD anomalies, i.e. box anomaly, and pion final state interactions. The radiative decay widths of $ \eta^{\prime}$ and $\eta^{\prime}$ can be expressed as; 
 \begin{equation}
-\frac{d\Gamma (\eta^{(\prime)} \to \pi^+ \pi^- \gamma)}{ds_{\pi\pi}} = A\vert P(s_{\pi\pi}) F_V(s_{\pi\pi}) \Gamma_0(s_{\pi\pi})\vert  \label{eq:decaywidth} \\
+\frac{d\Gamma (\eta^{(\prime)} \to \pi^+ \pi^- \gamma)}{ds_{\pi\pi}} = A\vert P(s_{\pi\pi}) F_V(s_{\pi\pi}) \Gamma_0(s_{\pi\pi})\vert  \label{eq:decaywidth} \cite{bib3} \\
 \end{equation}
-where $\Gamma_0(s_{\pi\pi})$ is the P-wave phase-space constant, denoted in Eq.~\ref{eq:decayconstant} with $\kappa$ being a 
-numerical constant. $F_V(s_{\pi\pi})$ is the pion form factor that can be approximated by Eq.~\ref{eq:decayformfactor} and  
-$P(s_{\pi\pi})$ is expanded around the chiral limit, $s_{\pi\pi} = 0$, as in Equation~\ref{eq:decaychiral}, where $\alpha$ is the 
-variable of measurement.
-\begin{eqnarray}
-\Gamma_0(s_{\pi\pi}) = \frac{\kappa \left(M^2_{\eta^{(\prime)}} - s_{\pi\pi} \right)^3  s_{\pi\pi} \left(1- \frac{ 4M^2_{\pi }}{    s_{\pi\pi}  }\right)^{\frac{3}{2}}   }{M^3_{\eta^{(\prime)} }}  \label{eq:decayconstant}  \\
-\vert F_V(s_{\pi\pi}) \vert \approx 1+(2.12\pm0.01)s_{\pi\pi} + (2.13\pm0.01)s_{\pi\pi}^2+(13.89\pm0.14)s_{\pi\pi}^3 \label{eq:decayformfactor} \\ \nonumber
-\\ 
+where $\Gamma_0(s_{\pi\pi})$ is denoted as
+\begin{equation}
+\Gamma_0(s_{\pi\pi}) = \frac{\kappa \left(M^2_{\eta^{(\prime)}} - s_{\pi\pi} \right)^3  s_{\pi\pi} \left(1- \frac{ 4M^2_{\pi }}{    s_{\pi\pi}  }\right)^{\frac{3}{2}}   }{M^3_{\eta^{(\prime)} }}  \label{eq:decayconstant} 
+\end{equation}
+with $\kappa$ being a numerical constant. $F_V(s_{\pi\pi})$ is the pion form factor and  
+$P(s_{\pi\pi})$ is written as a polynomial in $s_{\pi\pi}$ as
+\begin{equation}
 P(s_{\pi\pi}) = 1 + \alpha s_{\pi\pi} + \mathcal{O}(s_{\pi\pi}^2) \label{eq:decaychiral}
-\end{eqnarray}
+\end{equation}
+where $\alpha$ is the variable of measurement.
 Previous results on the radiative decay for the $\eta$ meson from WASA-at-COSY~\cite{bib0} and KLOE~\cite{bib1} would profit from further measurements. Only one measurement exists for the $\eta^{\prime}$ radiative decay~\cite{bib2}. With the \textsc{\texttt{CLAS}} g11 experiment, both the $\eta$ and  $\eta^{\prime}$ radiative decay width will be measured. In Figure~\ref{fig:boxCLASdata} the \textsc{\texttt{CLAS}} g11 data is shown for the particle selection of exclusive $\gamma p \to p  \pi^+ \pi^- \gamma $. Selecting events within a $2.5 \sigma$ range of $\eta^{\prime}$ and applying efficiency corrections, the $s_{\pi\pi}$ distribution is shown in Figure~\ref{fig:boxCLAS} along with preliminary fit results using Eq.~\ref{eq:decaychiral} and theory predictions~\cite{Kubis2015}.  
 \begin{equation}
 s_{\pi\pi} = m^2 - 2E_{\gamma}m \label{eq:spipi} \\
 \end{equation}
-\begin{figure}[h]
-	\centerline{\includegraphics[width=150 pt, height = 100 pt ]{figures/clas_g11data.pdf}}
-	\caption{\textsc{\texttt{CLAS}} yield for $\gamma p \to p \eta^{(\prime)} \to p \pi^+ \pi^- \gamma $ from the g11 data set.}
-	\label{fig:boxCLASdata}
-\end{figure}
 \begin{figure}[h!]
-	\centerline{\includegraphics[width=150 pt]{figures/GeorgieLMD_May_06_16_tempIII.pdf}}
-	\caption{(black)\textsc{\texttt{CLAS}} preliminary $s_{\pi\pi}$ distribution for $\eta^{\prime}$ with (blue solid line) preliminary fit results using Eq.~\ref{eq:decaychiral} and (red dashed line)theory predictions~\cite{Kubis2015}.}
-	\label{fig:boxCLAS}
+		\subfloat[clas_g11data][]{ %Feynman diagram of \pizT two photon decay
+			\includegraphics[width=175 pt, height = 145 pt ]{figures/clas_g11data.pdf}	\label{fig:boxCLASdata}
+		}		
+		\subfloat[GeorgieLMD_May_06_16_tempIII][]{ %Feynman diagram of \pizT Dalitz decay
+			\includegraphics[width=150 pt]{figures/GeorgieLMD_May_06_16_tempIII.pdf}\label{fig:boxCLAS}
+		}
+		\caption[Something]{\label{fig:g11rad_decay}\textsc{\texttt{CLAS}} yield for $\gamma p \to p \eta^{(\prime)} \to p \pi^+ \pi^- \gamma $ from the g11 data set~\subref{fig:boxCLASdata}.(black)\textsc{\texttt{CLAS}} preliminary $s_{\pi\pi}$ distribution for $\eta^{\prime}$ with (blue solid line) preliminary fit results using Eq.~\ref{eq:decaychiral} and (red dashed line)theory predictions~\cite{Kubis2015}~\subref{fig:boxCLAS}.}
+		
 \end{figure}
-\FloatBarrier
 \subsection{Update on the Dalitz plot analysis of $\eta^{\prime} \to \pi^+ \pi^- \eta$}
 The Dalitz plot of $\eta^{\prime} \to \pi^+ \pi^- \eta$ provides kinematic information of the decay, enabling the study of low energy dynamics of QCD and heavier mass pseudoscalar mesons. The  $\eta^{\prime} \to \pi^+ \pi^- \eta$ decay has a low Q-value due to the decay products being relatively heavy, this helps test and limit the effective chiral Lagrangian theory. The measurable of the Dalitz plot $X$ and $Y$ are projected and fitted to the Equation~\ref{eq:dalitzpro} to extract the parameters $a$, $b$, $c$, $d$. %Table~\ref{tab:dal.parms} shows the previous measurements of Equation~\ref{eq:dalitzpro} along with the projected statistical error a measurement from the CLAS g11 data.
 \begin{equation}
@@ -112,6 +102,7 @@ f(X,Y) = A(1+a(Y) + b (Y^2) + c(X) + d(X^2)  \label{eq:dalitzpro} \\
 \end{equation}
 %\input{tables/dalitzplotparm}
 This topic was briefly discussed, as a full update was given by later in the session.
+\FloatBarrier
 \subsection{The Transition Form Factor  of the $\omega$ Meson}
 Transition form factors characterize modifications of the point-like photon-meson vertex due to the structure of the meson. The virtual photon can interact with quarks, therefore it can be used as a probe for the internal structure of mesons and its electromagnetic interaction is calculable with the Kroll-Wada formula~\cite{bib4}, Equation~\ref{eq:kroll};
 \begin{equation}
@@ -127,13 +118,12 @@ Transition form factors characterize modifications of the point-like photon-meso
 \left| F(q^2)\right|^2 = \frac{\Lambda^2(\Lambda^2 + \gamma^2)}{(\Lambda^2 - q^2)\Lambda^2 \gamma^2} \label{eq:cpole} \ ,
  \end{eqnarray} 
  where $\Lambda$ and $\gamma$ is the mass and width of the virtual vector meson mass, respectively.
- Recent measurements of the transition form factor for $\omega \to \mu^+\mu^- \pi^0$ have shown unexpected discrepancies with the Vector Dominance Model~\cite{bib5} and recent models of chiral Lagrangian field theory~\cite{bib6}, and dispersion theory~\cite{Schneider} attempt to predict the contributions of the virtual vector meson.
- % as seen in Figure~\ref{fig:omega_ff}.
-% \begin{figure}[h!]
-% 	\centerline{\includegraphics[width=250 pt, height=130 pt]{figures/omega_ff_bastian_edit.pdf}}
-% 	\caption{Form factor of the decay $\omega \to l^+l^- \gamma$ compared to dimuon data by the NA60 Collaboration~\cite{bib5,bib5_0} and LEPS~\cite{LEPS}. Shown are VMD (dotted line) Eqs.~(\ref{eq:kroll},~\ref{eq:cpole}) using the mass of the $\rho$ meson as the virtual vector meson, the results of a chiral Lagrangian treatment with explicit vector mesons~\cite{bib6} (white shaded curve with solid borders), a simplified approximation to the full dispersive solution~\cite{Schneider} (gray shaded curve with dashed borders), full dispersive solution~\cite{Schneider} (black hatched curve with solid borders).~\cite{Schneider}}
-% 	\label{fig:omega_ff}
-% \end{figure}
+ Recent measurements of the transition form factor for $\omega \to \mu^+\mu^- \pi^0$ have shown unexpected discrepancies with the Vector Dominance Model~\cite{bib5} and recent models of chiral Lagrangian field theory~\cite{bib6}, and dispersion theory~\cite{Schneider} attempt to predict the contributions of the virtual vector meson, as seen in Figure~\ref{fig:omega_ff}.
+ \begin{figure}[h!]
+ 	\centerline{\includegraphics[width=250 pt, height=130 pt]{figures/omega_ff_bastian_edit.pdf}}
+ 	\caption{Form factor of the decay $\omega \to l^+l^- \gamma$ compared to dimuon data by the NA60 Collaboration~\cite{bib5,bib5_0} and LEPS~\cite{LEPS}. Shown are VMD (dotted line) Eqs.~(\ref{eq:kroll},~\ref{eq:cpole}) using the mass of the $\rho$ meson as the virtual vector meson, the results of a chiral Lagrangian treatment with explicit vector mesons~\cite{bib6} (white shaded curve with solid borders), a simplified approximation to the full dispersive solution~\cite{Schneider} (gray shaded curve with dashed borders), full dispersive solution~\cite{Schneider} (black hatched curve with solid borders).~\cite{Schneider}}
+ 	\label{fig:omega_ff}
+ \end{figure}
  
 With the \textsc{\texttt{CLAS}} g12 experiment, lepton ($e^{\pm}$) identification is done using Cherenkov detectors and electromagnetic calorimetry, providing a $e^{+}e^{-}/\pi^{+}\pi^{-}$ rejection of $10^6$. Using the $e^{\pm}$ data from \textsc{\texttt{CLAS}} g12, the $ \omega \to p e^+ e^- \pi^0$ transition form factor can be extracted. Preliminary studies have shown that the number of $ \omega \to p e^+ e^- \pi^0$ events in CLAS to be $\approx 3\cdot 10^3$.
 % Figure~\ref{fig:clas_omega_ff} shows the region of the $\omega$ meson.
@@ -178,123 +168,114 @@ The total $\etaP\rightarrow\epem\gamma$ rates per 80 days, and as a function $W$
 \begin{equation}
   N_{tot} = \int\limits_{1.9\,\rm{GeV}}^{2.8\,\rm{GeV}} \Big[ {\color{red}{N(W)_{\etaP\rightarrow\epem\gamma\text{ / 80 Days }}}} \Big]dW = \mathrm{\frac{28,200 \ events}{80 Days}}
 \label{yield}
-\end{equation}
-%This will give greater insight into the structure of the $ \eta^{\prime} $ meson than previously measured. 
-
-\begin{figure}[h!]\begin{center}
-		\includegraphics[width=250 pt, height=155 pt]{figures/counts.pdf}
-		\caption[Acceptance as a function of $M(\epem)$]{\label{fig:counts}{(Color Online)Expected yield as a function of $M(\epem)$.}}
-	\end{center}\end{figure}
-
-	\begin{figure}[h!]\begin{center}
-			\includegraphics[width=225 pt, height=155 pt]{figures/result.pdf}
-			\caption[TFF as a function of $M(\epem)$]{\label{fig:results}{(Color Online)$\left|F(q^2)\right|^2$ as a function of $M(\epem)$ using two acceptance models. (black points) QED+VMD $M(\epem)$ acceptance model. (green points) Flat $M(\epem)$ acceptance model. The solid lines represent a fit using Eq.~\ref{eq:cpole} to the data points.}}
-		\end{center}\end{figure}
-
+\end{equation}		
+\begin{figure}[h!]
+		\subfloat[clas_g11data][]{ %Feynman diagram of \pizT two photon decay
+			\includegraphics[width=200 pt, height=155 pt]{figures/counts.pdf}\label{fig:counts}
+		}		
+		\subfloat[GeorgieLMD_May_06_16_tempIII][]{ %Feynman diagram of \pizT Dalitz decay
+			\includegraphics[width=200 pt, height=155 pt]{figures/result.pdf}\label{fig:results}
+		}
+		\caption[Something]{\label{fig:clas12_tff}(Color Online)Expected yield as a function of $M(\epem)$~\subref{fig:counts}.(Color Online)$\left|F(q^2)\right|^2$ as a function of $M(\epem)$ using two acceptance models. (black points) QED+VMD $M(\epem)$ acceptance model. (green points) Flat $M(\epem)$ acceptance model. The solid lines represent a fit using Eq.~\ref{eq:cpole} to the data points.~\subref{fig:results}}
+		
+	\end{figure}
 	\FloatBarrier
 From Fig.~\ref{fig:counts} the QED normalized spectrum can be deduced and is shown in Fig.~\ref{fig:results}. Both generation models (i.e. flat and QED+VMD) are used to determine the transition form factor. It is shown that there exists a systematic uncertainty depending on the chosen generation model. However, the final calculation on the slope parameter or the TFF shows a negligible impact of this uncertainty. Regardless of the generation model, it is shown in Fig.~\ref{fig:results} that the accumulated statistics collected by CLAS12 allow for a precision of each parameter $\lesssim 0.5\%$. Compared to current experimental uncertainties of 10\% and differences in theoretical approaches of $\approx$ 10\%, Table~\ref{tab:etaP.models}, therefore a measurement by CLAS12 would not only be in the position to decisively discriminate between the theoretical predictions, but also help to further constrain the hadronic light-by-light amplitude
 to the muon g-2 anomaly~\cite{gminus2}.
+\section{Summary}
+The \textsc{\texttt{CLAS}} LMD program covers a variety of meson decay physics. With the data sets collected by the former \textsc{\texttt{CLAS}} detector, transition form factor measurements, investigation of symmetry breaking phenomena and probing QCD anomalies are done with high accuracy.
+The newly built \textsc{\texttt{CLAS12}} detector will provide more statistically supported data samples, allowing LMD analyses to probe further into light meson decay physics.
 
-% BibTeX or Biber users please use (the style is already called in the class, ensure that the "woc.bst" style is in your local directory)
-% \bibliography{name or your bibliography database}
+\bibliography{LMD}%
+
+%\begin{thebibliography}{00}
+%\bibitem{bib3}
+%F.~Stollenwerk et~al.
+%\newblock {\em Physics Letters B}, 707:184 -- 190, 2012.
+%\bibitem{bib2}
+%A.~Abele et~al.
+%\newblock {\em Physics Letters B}, 402:195 -- 206, 1997.
 %
-% Non-BibTeX users please use
+%\bibitem{bib7}
+%M.~Ablikim et~al.
+%\newblock {Observation of the Dalitz Decay $\eta' \to \gamma e^+e^-$}.
+%\newblock {\em Phys. Rev.}, D92(1):012001, 2015.
 %
-\begin{thebibliography}{00}
-%
-% and use \bibitem to create references.
-%
-%\bibitem{RefJ}
-%% Format for Journal Reference
-%F.~Author~\textit{et al.}, Journal \textbf{Volume}, page numbers (year) {\em{no trailing dot!}}
-%% Format for books
-%\bibitem{RefB}
-%Book Author, \textit{Book title} (Publisher, place, year) page numbers {\em{no trailing dot!}}
 %\bibitem{bib0}
-%P. Adlarson \textit{et al.}, Physics Letters B, 707, 243 - 249, 2012	
-%% etc
-
-\bibitem{bib2}
-A.~Abele et~al.
-\newblock {\em Physics Letters B}, 402:195 -- 206, 1997.
-
-\bibitem{bib7}
-M.~Ablikim et~al.
-\newblock {Observation of the Dalitz Decay $\eta' \to \gamma e^+e^-$}.
-\newblock {\em Phys. Rev.}, D92(1):012001, 2015.
-
-\bibitem{bib0}
-P.~Adlarson et~al.
-\newblock {\em Physics Letters B}, 707:243 -- 249, 2012.
-
-\bibitem{lmdCAA}
-M.~Amaryan et~al.
-\newblock {\em Photoproduction and \uppercase{D}ecay of \uppercase{L}ight
-  \uppercase{M}esons in \uppercase{CLAS}}.
-
-\bibitem{bib11}
-Ll. Ametller et~al.
-\newblock Transition form factors in ${\ensuremath{\pi}}^{0}$,
-  $\ensuremath{\eta}$, and ${\ensuremath{\eta}}^{\ensuremath{'}}$ couplings to
-  $\ensuremath{\gamma}{\ensuremath{\gamma}}^{*}$.
-\newblock {\em Phys. Rev. D}, 45:986--989, 1992.
-
-\bibitem{bib5}
-R.~Arnaldi et~al.
-\newblock Study of the electromagnetic transition form-factors in and decays
-  with \{NA60\}.
-\newblock {\em Physics Letters B}, 677(5):260 -- 266, 2009.
-
-\bibitem{bib1}
-D.~Babusci et~al.
-\newblock {\em Physics Letters B}, 718:910 -- 914, 2013.
-
-\bibitem{gminus2}
-Thomas Blum et~al.
-\newblock {The Muon (g-2) Theory Value: Present and Future}.
-\newblock 2013.
-
-\bibitem{bib10}
-A.~Bramon and E.~Massó.
-\newblock Q2-duality for electromagnetic form factors of mesons.
-\newblock {\em Physics Letters B}, 104(4):311 -- 314, 1981.
-
-\bibitem{bib12}
-C.~Hanhart et~al.
-\newblock {Dispersive analysis for $\eta\to \gamma\gamma^*$}.
-\newblock {\em Eur. Phys. J.}, C73(12):2668, 2013.
-
-\bibitem{bib4}
-Norman~M. Kroll and Walter Wada.
-\newblock Internal pair production associated with the emission of high-energy
-  gamma rays.
-\newblock {\em Phys. Rev.}, 98:1355--1359, 1955.
-
-\bibitem{Kubis2015}
-Bastian Kubis and Judith Plenter.
-\newblock Anomalous decay and scattering processes of the $\eta$ meson.
-\newblock {\em The European Physical Journal C}, 75(6):1--12, 2015.
-
-\bibitem{Schneider}
-Sebastian~P. Schneider et~al.
-\newblock {The $\omega -> \pi^0 \gamma^*$ and $\phi -> \pi^0 \gamma^*$
-  transition form factors in dispersion theory}.
-\newblock {\em Phys. Rev.}, D86:054013, 2012.
-
-\bibitem{bib6}
-Carla Terschlusen and Stefan Leupold.
-\newblock Electromagnetic transition form factors of light vector mesons.
-\newblock {\em Physics Letters B}, 691(4):191 -- 201, 2010.
-
-\bibitem{bib8}
-M.~Williams et~al.
-\newblock {Multivariate side-band subtraction using probabilistic event
-  weights}.
-\newblock {\em JINST}, 4:P10003, 2009.
-
-\end{thebibliography}
+%P.~Adlarson et~al.
+%\newblock {\em Physics Letters B}, 707:243 -- 249, 2012.
+%
+%\bibitem{lmdCAA}
+%M.~Amaryan et~al.
+%\newblock {\em Photoproduction and \uppercase{D}ecay of \uppercase{L}ight
+%  \uppercase{M}esons in \uppercase{CLAS}}.
+%
+%\bibitem{bib11}
+%Ll. Ametller et~al.
+%\newblock Transition form factors in ${\ensuremath{\pi}}^{0}$,
+%  $\ensuremath{\eta}$, and ${\ensuremath{\eta}}^{\ensuremath{'}}$ couplings to
+%  $\ensuremath{\gamma}{\ensuremath{\gamma}}^{*}$.
+%\newblock {\em Phys. Rev. D}, 45:986--989, 1992.
+%
+%\bibitem{bib5}
+%R.~Arnaldi et~al.
+%\newblock Study of the electromagnetic transition form-factors in and decays
+%  with \{NA60\}.
+%\newblock {\em Physics Letters B}, 677(5):260 -- 266, 2009.
+%
+%\bibitem{bib5_0}
+%G.~Usai.
+%\newblock Low mass dimuon production in proton-nucleus collisions at 400 gev/c.
+%\newblock {\em Nuclear Physics A}, 855(1):189 -- 196, 2011.
+%
+%\bibitem{bib1}
+%D.~Babusci et~al.
+%\newblock {\em Physics Letters B}, 718:910 -- 914, 2013.
+%
+%\bibitem{gminus2}
+%Thomas Blum et~al.
+%\newblock {The Muon (g-2) Theory Value: Present and Future}.
+%\newblock 2013.
+%
+%\bibitem{bib10}
+%A.~Bramon and E.~Massó.
+%\newblock Q2-duality for electromagnetic form factors of mesons.
+%\newblock {\em Physics Letters B}, 104(4):311 -- 314, 1981.
+%
+%\bibitem{bib12}
+%C.~Hanhart et~al.
+%\newblock {Dispersive analysis for $\eta\to \gamma\gamma^*$}.
+%\newblock {\em Eur. Phys. J.}, C73(12):2668, 2013.
+%
+%\bibitem{bib4}
+%Norman~M. Kroll and Walter Wada.
+%\newblock Internal pair production associated with the emission of high-energy
+%  gamma rays.
+%\newblock {\em Phys. Rev.}, 98:1355--1359, 1955.
+%
+%\bibitem{Kubis2015}
+%Bastian Kubis and Judith Plenter.
+%\newblock Anomalous decay and scattering processes of the $\eta$ meson.
+%\newblock {\em The European Physical Journal C}, 75(6):1--12, 2015.
+%
+%\bibitem{Schneider}
+%Sebastian~P. Schneider et~al.
+%\newblock {The $\omega -> \pi^0 \gamma^*$ and $\phi -> \pi^0 \gamma^*$
+%  transition form factors in dispersion theory}.
+%\newblock {\em Phys. Rev.}, D86:054013, 2012.
+%
+%\bibitem{bib6}
+%Carla Terschlusen and Stefan Leupold.
+%\newblock Electromagnetic transition form factors of light vector mesons.
+%\newblock {\em Physics Letters B}, 691(4):191 -- 201, 2010.
+%
+%\bibitem{bib8}
+%M.~Williams et~al.
+%\newblock {Multivariate side-band subtraction using probabilistic event
+%  weights}.
+%\newblock {\em JINST}, 4:P10003, 2009.
+%
+%
+%\end{thebibliography}
 
 \end{document}
-
-% end of file template.tex
-

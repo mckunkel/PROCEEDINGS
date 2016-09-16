@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: TFF_report.aux
+The style file: woc.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: LMD.bib
+Warning--entry type for "lmdCAA" isn't style-file defined
+--line 148 of file LMD.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 19 entries,
+            3358 wiz_defined-function locations,
+            1248 strings with 11515 characters,
+and the built_in function-call counts, 9312 in all, are:
+= -- 589
+> -- 166
+< -- 42
++ -- 129
+- -- 37
+* -- 1176
+:= -- 1155
+add.period$ -- 0
+call.type$ -- 19
+change.case$ -- 77
+chr.to.int$ -- 19
+cite$ -- 19
+duplicate$ -- 864
+empty$ -- 889
+format.name$ -- 170
+if$ -- 1845
+int.to.chr$ -- 1
+int.to.str$ -- 20
+missing$ -- 128
+newline$ -- 60
+num.names$ -- 38
+pop$ -- 166
+preamble$ -- 1
+purify$ -- 76
+quote$ -- 0
+skip$ -- 389
+stack$ -- 0
+substring$ -- 436
+swap$ -- 532
+text.length$ -- 23
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 57
+warning$ -- 0
+while$ -- 36
+width$ -- 0
+write$ -- 153
+(There was 1 warning)

@@ -63,8 +63,9 @@ The light meson group was established in 2013. The goal of the group is to inves
 %\caption{The CEBAF Large Acceptance Spectrometer (\textsc{\texttt{CLAS}}).}
 %\label{fig:clas}       % Give a unique label
 %\end{figure}
-Since decays of hadrons are independent of production, all \textsc{\texttt{CLAS}} data can be used, however there are two experiments that were chosen as flagships for the program, the g11 and g12 experiment. Both experiments use a photon beam incident on a liquid hydrogen target which created photo-induced reactions with photon beam energies of 800~MeV - 3.8~GeV for g11 and 1.1~GeV - 5.5~GeV for g12.  See~\cite{lmdCAA} for a complete list of meson decays the LMD group plans to investigate. See Table~\ref{tab:lmd.channels} for a list of meson decays the LMD group plans to investigate.
-\input{tables/lmd_channels}
+Since decays of hadrons are independent of production, all \textsc{\texttt{CLAS}} data can be used, however there are two experiments that were chosen as flagships for the program, the g11 and g12 experiment. Both experiments use a photon beam incident on a liquid hydrogen target which created photo-induced reactions with photon beam energies of 800~MeV - 3.8~GeV for g11 and 1.1~GeV - 5.5~GeV for g12.  See~\cite{lmdCAA} for a complete list of meson decays the LMD group plans to investigate. 
+%See Table~\ref{tab:lmd.channels} for a list of meson decays the LMD group plans to investigate.
+%\input{tables/lmd_channels}
 \subsection{The Radiative Decay of the $\eta$ and $\eta^\prime$  Meson}
 %The two-photon decay of the pseudoscalar mesons $\pi^0, \eta , \eta^{\prime} \to \gamma \gamma $ proceed via the triangle or axial anomaly.
 Radiative decays of  $\eta , \ \eta^{\prime} \to \pi^+ \pi^- \gamma $ are tools to explore QCD anomalies, i.e. box anomaly, and pion final state interactions. The radiative decay widths of $ \eta^{\prime}$ and $\eta^{\prime}$ can be expressed as; 
@@ -95,16 +96,18 @@ s_{\pi\pi} = m^2 - 2E_{\gamma}m \label{eq:spipi} \\
 		\caption[Something]{\label{fig:g11rad_decay}\textsc{\texttt{CLAS}} yield for $\gamma p \to p \eta^{(\prime)} \to p \pi^+ \pi^- \gamma $ from the g11 data set~\subref{fig:boxCLASdata}.(black)\textsc{\texttt{CLAS}} preliminary $s_{\pi\pi}$ distribution for $\eta^{\prime}$ with (blue solid line) preliminary fit results using Eq.~\ref{eq:decaychiral} and (red dashed line)theory predictions~\cite{Kubis2015}~\subref{fig:boxCLAS}.}
 		
 \end{figure}
+\FloatBarrier
 \subsection{Update on the Dalitz plot analysis of $\eta^{\prime} \to \pi^+ \pi^- \eta$}
-The Dalitz plot of $\eta^{\prime} \to \pi^+ \pi^- \eta$ provides kinematic information of the decay, enabling the study of low energy dynamics of QCD and heavier mass pseudoscalar mesons. The  $\eta^{\prime} \to \pi^+ \pi^- \eta$ decay has a low Q-value due to the decay products being relatively heavy, this helps test and limit the effective chiral Lagrangian theory. The measurable of the Dalitz plot $X$ and $Y$ are projected and fitted to the Equation~\ref{eq:dalitzpro} to extract the parameters $a$, $b$, $c$, $d$. %Table~\ref{tab:dal.parms} shows the previous measurements of Equation~\ref{eq:dalitzpro} along with the projected statistical error a measurement from the CLAS g11 data.
+The Dalitz plot of $\eta^{\prime} \to \pi^+ \pi^- \eta$ provides kinematic information of the decay, enabling the study of low energy dynamics of QCD and heavier mass pseudoscalar mesons. The  $\eta^{\prime} \to \pi^+ \pi^- \eta$ decay has a low Q-value due to the decay products being relatively heavy, this helps test and limit the effective chiral Lagrangian theory. The measurable of the Dalitz plot $X$ and $Y$ are projected and fitted to  %Table~\ref{tab:dal.parms} shows the previous measurements of Equation~\ref{eq:dalitzpro} along with the projected statistical error a measurement from the CLAS g11 data.
 \begin{equation}
 f(X,Y) = A(1+a(Y) + b (Y^2) + c(X) + d(X^2)  \label{eq:dalitzpro} \\
 \end{equation}
+to extract the parameters $a$, $b$, $c$, $d$.
 %\input{tables/dalitzplotparm}
 This topic was briefly discussed, as a full update was given by later in the session.
 \FloatBarrier
 \subsection{The Transition Form Factor  of the $\omega$ Meson}
-Transition form factors characterize modifications of the point-like photon-meson vertex due to the structure of the meson. The virtual photon can interact with quarks, therefore it can be used as a probe for the internal structure of mesons and its electromagnetic interaction is calculable with the Kroll-Wada formula~\cite{bib4}, Equation~\ref{eq:kroll};
+Transition form factors characterize modifications of the point-like photon-meson vertex due to the structure of the meson. The virtual photon can interact with quarks, therefore it can be used as a probe for the internal structure of mesons and its electromagnetic interaction is calculable with the Kroll-Wada formula~\cite{bib4};
 \begin{equation}
 \frac{d\Gamma_{M{\rightarrow l^{+}l^{-}X}}}{dq^{2} d\Gamma_{M{\rightarrow X\gamma}}} = \frac{\alpha}{3\pi q^{2}}\left(\left(1+\frac{q^{2}}{m^{2}_{M}-m^{2}_{X}}\right)^2 - \frac{4m^{2}_{M}q^2}{(m^{2}_{M}-m^{2}_{X})^2}\right)^\frac{3}{2}\left(1-\frac{4m_{l}^{2}}{q^{2}}\right)^{1/2}\left(1+\frac{2m_{l}^{2}}{q^{2}}\right) \bigg|_{\mathrm{Q.E.D}}  \label{eq:kroll} \ . \\
 \end{equation}
@@ -112,12 +115,16 @@ Transition form factors characterize modifications of the point-like photon-meso
  \begin{equation}
  \frac{d\Gamma_{M{\rightarrow l^{+}l^{-}X}}}{dq^{2} d\Gamma_{M{\rightarrow X\gamma}}}\bigg|_{\mathrm{measured}} =   \frac{d\Gamma_{M{\rightarrow l^{+}l^{-}X}}}{dq^{2} d\Gamma_{M{\rightarrow X\gamma}}} \bigg|_{\mathrm{Q.E.D}} \left| F(q^2)\right|^2 \label{eq:kroll_ff} \ . \\
  \end{equation}
- Depending on the decay width of the meson of interest, the transition can be modeled as a simple pole, Equation~\ref{eq:pole}, a complex pole, Equation~\ref{eq:cpole}, or some other function that describes the transition.
- \begin{eqnarray}
-\left| F(q^2)\right| = \frac{1}{1-\frac{q^2}{\Lambda^2}} \label{eq:pole} \\
+ Depending on the decay width of the meson of interest, the transition can be modeled as a simple pole,
+  \begin{equation}
+  \left| F(q^2)\right| = \frac{1}{1-\frac{q^2}{\Lambda^2}} \label{eq:pole} \\
+  \end{equation} 
+ a complex pole,
+ \begin{equation}
 \left| F(q^2)\right|^2 = \frac{\Lambda^2(\Lambda^2 + \gamma^2)}{(\Lambda^2 - q^2)\Lambda^2 \gamma^2} \label{eq:cpole} \ ,
- \end{eqnarray} 
- where $\Lambda$ and $\gamma$ is the mass and width of the virtual vector meson mass, respectively.
+ \end{equation} 
+  or some other function that describes the transition.
+ In both Equation~\ref{eq:pole} and Equation~\ref{eq:cpole}, $\Lambda$ is the mass and width of the virtual vector meson, while $\gamma$ is the width of the virtual vector meson.
  Recent measurements of the transition form factor for $\omega \to \mu^+\mu^- \pi^0$ have shown unexpected discrepancies with the Vector Dominance Model~\cite{bib5} and recent models of chiral Lagrangian field theory~\cite{bib6}, and dispersion theory~\cite{Schneider} attempt to predict the contributions of the virtual vector meson, as seen in Figure~\ref{fig:omega_ff}.
  \begin{figure}[h!]
  	\centerline{\includegraphics[width=250 pt, height=130 pt]{figures/omega_ff_bastian_edit.pdf}}
